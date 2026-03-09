@@ -1,0 +1,10 @@
+{
+  "id": "prologue",
+  "name": "Prologue",
+  "version": "1.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Display a random quote or reminder on the new tab page.",
+  "author": "Josh Avanier",
+  "authorUrl": "https://avanier.dev",
+  "isDesktopOnly": false
+}

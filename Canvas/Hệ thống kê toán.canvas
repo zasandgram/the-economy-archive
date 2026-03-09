@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4d0fd5a234e675ac","x":60,"y":100,"width":197,"height":60,"type":"text","text":"Thông tin\nBáo cáo, truyền tin"},
+		{"id":"0cb4d4bdd89cb760","x":-218,"y":100,"width":218,"height":60,"type":"text","text":"Xử lý\nPhân loại, sắp xếp"},
+		{"id":"baccf437127c4685","x":-440,"y":100,"width":169,"height":60,"type":"text","text":"Phản ánh\nGhi chép dữ liệu"},
+		{"id":"5f557ec8ef6812bf","x":-32,"y":-100,"width":250,"height":50,"type":"text","text":"Người sử dụng thông tin"},
+		{"id":"e71b59b48838157c","x":-440,"y":-100,"width":250,"height":50,"type":"text","text":"Các hoạt động kinh doanh"}
+	],
+	"edges":[
+		{"id":"c61fe8dc058c7795","fromNode":"e71b59b48838157c","fromSide":"bottom","toNode":"baccf437127c4685","toSide":"top"},
+		{"id":"8d088caeb7aa5799","fromNode":"baccf437127c4685","fromSide":"right","toNode":"0cb4d4bdd89cb760","toSide":"left"},
+		{"id":"40b1a04ec28628a5","fromNode":"0cb4d4bdd89cb760","fromSide":"right","toNode":"4d0fd5a234e675ac","toSide":"left"},
+		{"id":"9aa9579f4714d8de","fromNode":"4d0fd5a234e675ac","fromSide":"top","toNode":"5f557ec8ef6812bf","toSide":"bottom"},
+		{"id":"b10f9e20c005c4a7","fromNode":"5f557ec8ef6812bf","fromSide":"bottom","toNode":"4d0fd5a234e675ac","toSide":"top"}
+	]
+}

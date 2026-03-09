@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9bb418810374657d","type":"text","text":"Lập/ thu nhận chứng từ\n- Lập biểu mẫu, ghi nội dung kinh tế phát sinh\n- Đầy đủ chữ ký","x":-145,"y":-400,"width":250,"height":140},
+		{"id":"b247ce5245971aca","type":"text","text":"Kiểm tra và hoàn chỉnh chứng từ\n- Tính rõ ràng, trung thực của các khoản mục\n- Tính hợp pháp, hợp lệ của nghiệp vụ kinh tế\n- Tính chính xác của số liệu, thông tin","x":-145,"y":-180,"width":250,"height":280},
+		{"id":"9cd7f243ce6d1477","type":"text","text":"Bảo quản - Lưu trữ - Hủy\n- Phân loại theo nội dung kế toán, sắp xếp trình tự thời gian\n- Chứng từ không sử dụng trực tiếp để ghi sổ: 5 năm\n- Chứng từ sử dụng trực tiếp để ghi sổ: 10 năm","x":-144,"y":420,"width":250,"height":280},
+		{"id":"dbbb382d8b6a5e49","type":"text","text":"Luân chuyển và ghi sổ\n- Phân loại chứng từ\n- Luân chuyển đến các bộ phận liên quan\n- Vào sổ kế toán","x":-145,"y":160,"width":250,"height":180}
+	],
+	"edges":[
+		{"id":"5fb74c602fc34110","fromNode":"9bb418810374657d","fromSide":"bottom","toNode":"b247ce5245971aca","toSide":"top"},
+		{"id":"17363214c30cad7f","fromNode":"b247ce5245971aca","fromSide":"bottom","toNode":"dbbb382d8b6a5e49","toSide":"top"},
+		{"id":"0189afe6d3acbca7","fromNode":"dbbb382d8b6a5e49","fromSide":"bottom","toNode":"9cd7f243ce6d1477","toSide":"top"}
+	]
+}

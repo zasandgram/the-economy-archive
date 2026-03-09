@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e30822d2f77492de","x":-95,"y":-36,"width":155,"height":116,"type":"text","text":"Đối tượng thành lập doanh nghiệp"},
+		{"id":"42448169b711c3c1","x":-179,"y":200,"width":324,"height":50,"type":"text","text":"Chuẩn bị hồ sơ đăng ký kinh doanh"},
+		{"id":"b3e229633bc63c96","x":-141,"y":386,"width":250,"height":60,"type":"text","text":"Phòng đăng ký kinh doanh cấp tỉnh"},
+		{"id":"4c01c75cffd53dd1","x":-140,"y":543,"width":250,"height":60,"type":"text","text":"Cấp giấy công nhận đăng ký kinh doanh (<=5 ngày)"},
+		{"id":"3d33dc66ad8e5c88","x":-165,"y":720,"width":300,"height":50,"type":"text","text":"Kết thúc thành lập doanh nghiệp"},
+		{"id":"a11b41841724a332","x":200,"y":543,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6d404bc5af2478de","fromNode":"e30822d2f77492de","fromSide":"bottom","toNode":"42448169b711c3c1","toSide":"top"},
+		{"id":"f4f357121a89b84a","fromNode":"42448169b711c3c1","fromSide":"bottom","toNode":"b3e229633bc63c96","toSide":"top"},
+		{"id":"61288e7cd8099811","fromNode":"b3e229633bc63c96","fromSide":"bottom","toNode":"4c01c75cffd53dd1","toSide":"top","label":"Đồng ý cấp"},
+		{"id":"e55f858889e4d38f","fromNode":"4c01c75cffd53dd1","fromSide":"bottom","toNode":"3d33dc66ad8e5c88","toSide":"top"},
+		{"id":"75af463b6b1d1340","fromNode":"b3e229633bc63c96","fromSide":"right","toNode":"a11b41841724a332","toSide":"left","label":"Không đồng ý"}
+	]
+}

@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300f7e98f3e0dc63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phương pháp chứng từ kế toán"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b181b15de434ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e22a894782508d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1961111f29a2d69",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "0722158c8e98a925",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a641db3e3149043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d194d514794567b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1d7c5ac5ef87e260",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20afcdde020582b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e7aa8080546bd40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kinh tế phát triển bền vững/Đầu tư và phát triển.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Đầu tư và phát triển"
+            }
+          },
+          {
+            "id": "3630dac3e12bf1e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kinh tế phát triển bền vững/Nguồn lực và động lực phát triển kinh tế.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nguồn lực và động lực phát triển kinh tế"
+            }
+          },
+          {
+            "id": "e2fb2432ff2e702d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62244d6df8f50cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Phương pháp chứng từ kế toán"
+            }
+          },
+          {
+            "id": "be80c2bd2e6771d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "terminal:Open terminal": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "widgets:Add widget": false,
+      "wikipedia-search:Open Article": false,
+      "graph:Open graph view": false,
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "300f7e98f3e0dc63",
+  "lastOpenFiles": [
+    "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
+    "Canvas/Trình tự xử lý và luân chuyển chứng từ.canvas",
+    "Nguyên Lý Kế Toán/Nhập Môn Nguyên Lý Kế Toán.md",
+    "Tài chính - Tiền tệ/Đại cương về tài chính tiền tệ.md",
+    "Excalidraw/Drawing 2026-03-07 21.50.34.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 21.48.50.excalidraw.md",
+    "Lập và phân tích dự án/Tổng quan lập và phân tích dự án đầu tư.md",
+    "Excalidraw/Drawing 2026-03-07 16.28.08.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 16.21.55.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 16.01.48.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-07 16.00.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-25 09.46.43.excalidraw.md",
+    "Nguyên Lý Thống Kê KInh Tế/Nhập môn nguyên lý thống kê kinh tế.md",
+    "Marketing căn bản/Tổng quan về Marketing.md",
+    "Lập và phân tích dự án/Untitled 1.md",
+    "Lập và phân tích dự án",
+    "Nguyên Lý Thống Kê KInh Tế",
+    "Tài chính - Tiền tệ/Untitled.md",
+    "Tài chính - Tiền tệ",
+    "Recording 20260303112843.m4a",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Agent-Sessions/Untitled.md",
+    "Canvas",
+    "Marketing căn bản",
+    "Canvas/Hệ thống kê toán.canvas",
+    "Image/image 9.png",
+    "Untitled 1.canvas",
+    "Recording 20260302132504.m4a",
+    "Nguyên Lý Kế Toán",
+    "Untitled.md",
+    "Image/010c14fb6b364da84af1b7287fc0d455.jpg",
+    "Thương mại điện tử/Ứng dụng thương mại điện tử và thương mại điện tử đa kênh.md",
+    "Tổ chức sự kiện/Lập kế hoạch tổ chức sự kiện-2.md",
+    "Kỹ năng mềm/Hướng dẫn tiểu luận-2.md",
+    "Kỹ năng mềm/Kỹ năng tranh biện và kỹ năng học tập, làm việc trong môi trường số-2.md",
+    "Kỹ năng mềm/Kỹ năng thuyết trình và nói trước đám đông-2.md",
+    "Pháp luật đại cương/Thực hiện pháp luật, vi phạm pháp luật và trách nhiệm pháp lý-2.md",
+    "Pháp luật đại cương/Quy phạm pháp luật và văn bản quy phạm pháp luật-2.md"
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17cfd1c0fae5bc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinh tế/Hành vi của người tiêu dùng và hành vi doanh nghiệp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hành vi của người tiêu dùng và hành vi doanh nghiệp"
+            }
+          }
+        ]
+      },
+      {
+        "id": "63126619a31f446b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f296827d40373e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://sinhvien.hvu.edu.vn/auth/login"
+              },
+              "icon": "lucide-file",
+              "title": ".:: Đăng nhập - [LMS] ::."
+            }
+          },
+          {
+            "id": "42c0cf6cd36d7f9a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://gemini.google.com/app"
+              },
+              "icon": "lucide-file",
+              "title": "Google Gemini"
+            }
+          },
+          {
+            "id": "2254c1f60a49a3e0",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://notebooklm.google.com/notebook/0f923097-c386-4253-9ba3-3931e9187273"
+              },
+              "icon": "lucide-file",
+              "title": "Kinh tế học - NotebookLM"
+            }
+          },
+          {
+            "id": "814fb459eebc4b9b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://editor.codecogs.com/"
+              },
+              "icon": "lucide-file",
+              "title": "Equation Editor for online mathematics - create, integrate and download"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b181b15de434ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e22a894782508d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e6d6ca83b31fd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07ac8355f681b709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a19f8126ce13fa02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1d7c5ac5ef87e260",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20afcdde020582b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e7aa8080546bd40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kinh tế phát triển bền vững/Đầu tư và phát triển.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Đầu tư và phát triển"
+            }
+          },
+          {
+            "id": "3630dac3e12bf1e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kinh tế phát triển bền vững/Nguồn lực và động lực phát triển kinh tế.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nguồn lực và động lực phát triển kinh tế"
+            }
+          },
+          {
+            "id": "e2fb2432ff2e702d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62244d6df8f50cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "be80c2bd2e6771d3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "a627498b46f026c9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "9272ddad8570af83",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "25de1218da716236",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "widgets:Add widget": false,
+      "juggl:Juggl global graph": false,
+      "wikipedia-search:Open Article": false
+    }
+  },
+  "active": "42c0cf6cd36d7f9a",
+  "lastOpenFiles": [
+    "Kinh tế/Hành vi của người tiêu dùng và hành vi doanh nghiệp.md",
+    "Kinh tế/Khái niệm/Tổng chi phí (Total Costs).md",
+    "Kinh tế/Khái niệm/Chi phí cố định (Fixed Costs).md",
+    "Kinh tế/Khái niệm/Chi phí cận biên.md",
+    "Kinh tế/Khái niệm/Chi phí biến đổi (Variable Costs).md",
+    "Image/image 8.png",
+    "Quản trị học/Môi trường quản trị.md",
+    "Quản trị học/Lập kế hoạch.md",
+    "Image/image 7.png",
+    "Kinh tế phát triển bền vững/Tăng trưởng kinh tế.md",
+    "Quản trị học/Đại cương về quản trị học.md",
+    "Kinh tế phát triển bền vững/Nguồn lực và động lực phát triển kinh tế.md",
+    "Kinh tế phát triển bền vững/Doanh nghiệp đối với phát triển kinh tế.md",
+    "Kinh tế phát triển bền vững/Đầu tư và phát triển.md",
+    "Image/image 6.png",
+    "Triết học Marx- Lenin/Quan niệm của chủ nghĩa duy vật biện chứng về vật chất, ý thức.md",
+    "Triết học Marx- Lenin/Mối quan hệ biện chứng giữa vật chất và ý thức.md",
+    "Triết học Marx- Lenin/Lý luận nhận thức của chủ nghĩa duy vật biện chứng.md",
+    "Triết học Marx- Lenin/Khái luận triết học, triết học Marx- Lenin, vai trò của triết học Marx- Lenin trong công cuộc đổi mới ở Việt Nam hiện nay.md",
+    "Triết học Marx- Lenin/Hai nguyên lý, sáu cặp phạm trù của phép biện chứng duy vật.md",
+    "Triết học Marx- Lenin/Các quy luật cơ bản của phép biện chứng duy vật.md",
+    "Image/image-1 5.png",
+    "Image/image 5.png",
+    "Image/image-1 4.png",
+    "Image/image 4.png",
+    "Image/image-1 3.png",
+    "Image/image 3.png",
+    "Kinh tế/Cầu cung.md",
+    "Kinh tế/Khái niệm/Lợi ích (Utils).md",
+    "Quản trị học/Other/Chiến lược Portfolio.md",
+    "Untitled.base",
+    "2025-12-19.md",
+    "Kinh tế/Nhập môn kinh tế học.md",
+    "Kinh tế/Độ co giãn cung cầu.md",
+    "Quản trị học/Other/Chiến lược dẫn đầu về chi phí.md",
+    "Quản trị học/Other/Untitled.canvas",
+    "Quản trị học/Other",
+    "Kinh tế phát triển bền vững/Other Files",
+    "Kinh tế phát triển bền vững/Other Files/Untitled 1.canvas",
+    "Kinh tế phát triển bền vững/Untitled.canvas",
+    "Image/image-1 2.png",
+    "Triết học Marx- Lenin/Canvas",
+    "Untitled",
+    "Kinh tế/Khái niệm",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts",
+    "gemini-scribe",
+    "Triết học Marx- Lenin/Canvas/Nguyên lý triết học cơ bản.canvas",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}

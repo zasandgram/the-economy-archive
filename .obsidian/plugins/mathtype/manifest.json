@@ -1,0 +1,10 @@
+{
+	"id": "mathtype",
+	"name": "MathType",
+	"version": "1.0.2",
+	"minAppVersion": "0.15.0",
+	"description": "Allows to type math faster with on the fly suggestions",
+	"author": "slateblua",
+	"authorUrl": "https://slateblua.github.io",
+	"isDesktopOnly": true
+}

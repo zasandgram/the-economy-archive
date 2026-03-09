@@ -1,0 +1,1 @@
+![](https://blog.vnresource.vn/wp-content/uploads/2018/07/ap-dung-thuyet-2-nhan-to-herzberg.png)
