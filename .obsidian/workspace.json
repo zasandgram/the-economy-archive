@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "300f7e98f3e0dc63",
+            "id": "338ed684bc9738d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Phương pháp chứng từ kế toán"
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -45,7 +45,7 @@
             }
           },
           {
-            "id": "0722158c8e98a925",
+            "id": "eabc882f88aec45a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "6a641db3e3149043",
+            "id": "a19040edb210a33c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "d194d514794567b5",
+            "id": "ff0dec74bf0c7cce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phương pháp chứng từ kế toán"
+              "title": "Outline"
             }
           },
           {
@@ -170,21 +169,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6e7d84def5f4af22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "audio-recorder:Start/stop recording": false,
       "terminal:Open terminal": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -192,51 +203,56 @@
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "widgets:Add widget": false,
-      "wikipedia-search:Open Article": false,
-      "graph:Open graph view": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
-      "obsidian-git:Open Git source control": false
+      "wikipedia-search:Open Article": false
     }
   },
-  "active": "300f7e98f3e0dc63",
+  "active": "338ed684bc9738d6",
   "lastOpenFiles": [
-    "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
-    "Canvas/Trình tự xử lý và luân chuyển chứng từ.canvas",
-    "Nguyên Lý Kế Toán/Nhập Môn Nguyên Lý Kế Toán.md",
+    "Kinh tế phát triển bền vững/Nguồn lực và động lực phát triển kinh tế.md",
+    "Quản trị học/Lập kế hoạch.md",
+    "Quản trị học/Kiểm tra.md",
+    "Kinh tế học/Hành vi của người tiêu dùng và hành vi doanh nghiệp.md",
+    "Marketing căn bản/Hành vi của khách hàng.md",
+    "Canvas/Quy trình thông qua quyết định mua hàng.canvas",
+    "Kinh tế học/Chu kì kinh tế và chính sách kinh tế.md",
+    "Kinh tế học/Lạm phát và thất nghiệp.md",
+    "Canvas/Xã hội.canvas",
+    "Kinh tế học/Độ co giãn cung cầu.md",
+    "Kinh tế học/Cầu cung.md",
+    "Kinh tế học/Nhập môn kinh tế học.md",
+    "Image/010c14fb6b364da84af1b7287fc0d455.jpg",
+    "Image/image 9.png",
+    "Canvas/Văn hóa.canvas",
     "Tài chính - Tiền tệ/Đại cương về tài chính tiền tệ.md",
+    "Nguyên Lý Kế Toán/Nhập Môn Nguyên Lý Kế Toán.md",
+    "Kinh tế phát triển bền vững/Doanh nghiệp đối với phát triển kinh tế.md",
+    "Kinh tế phát triển bền vững/Định hướng chiến lược phát triển bền vững ở Việt Nam.md",
+    "Lập và phân tích dự án/Tổng quan lập và phân tích dự án đầu tư.md",
+    "Nguyên Lý Thống Kê KInh Tế/Nhập môn nguyên lý thống kê kinh tế.md",
+    "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
+    "remote-vault",
+    "Canvas/Mô hình.canvas",
+    "excalibrain.md",
+    "Excalidraw/Drawing 2026-03-10 08.22.12.excalidraw.md",
+    "Image/960px-Tháp_nhu_cầu_của_Maslow.png",
+    "Untitled.base",
+    "Marketing căn bản/Tổng quan về Marketing.md",
+    "Canvas/Trình tự xử lý và luân chuyển chứng từ.canvas",
     "Excalidraw/Drawing 2026-03-07 21.50.34.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 21.48.50.excalidraw.md",
-    "Lập và phân tích dự án/Tổng quan lập và phân tích dự án đầu tư.md",
     "Excalidraw/Drawing 2026-03-07 16.28.08.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 16.21.55.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 16.01.48.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 16.00.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-25 09.46.43.excalidraw.md",
-    "Nguyên Lý Thống Kê KInh Tế/Nhập môn nguyên lý thống kê kinh tế.md",
-    "Marketing căn bản/Tổng quan về Marketing.md",
-    "Lập và phân tích dự án/Untitled 1.md",
     "Lập và phân tích dự án",
     "Nguyên Lý Thống Kê KInh Tế",
-    "Tài chính - Tiền tệ/Untitled.md",
     "Tài chính - Tiền tệ",
     "Recording 20260303112843.m4a",
-    "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Agent-Sessions/Untitled.md",
     "Canvas",
     "Marketing căn bản",
     "Canvas/Hệ thống kê toán.canvas",
-    "Image/image 9.png",
     "Untitled 1.canvas",
     "Recording 20260302132504.m4a",
-    "Nguyên Lý Kế Toán",
-    "Untitled.md",
-    "Image/010c14fb6b364da84af1b7287fc0d455.jpg",
-    "Thương mại điện tử/Ứng dụng thương mại điện tử và thương mại điện tử đa kênh.md",
-    "Tổ chức sự kiện/Lập kế hoạch tổ chức sự kiện-2.md",
-    "Kỹ năng mềm/Hướng dẫn tiểu luận-2.md",
-    "Kỹ năng mềm/Kỹ năng tranh biện và kỹ năng học tập, làm việc trong môi trường số-2.md",
-    "Kỹ năng mềm/Kỹ năng thuyết trình và nói trước đám đông-2.md",
-    "Pháp luật đại cương/Thực hiện pháp luật, vi phạm pháp luật và trách nhiệm pháp lý-2.md",
-    "Pháp luật đại cương/Quy phạm pháp luật và văn bản quy phạm pháp luật-2.md"
+    "Nguyên Lý Kế Toán"
   ]
 }

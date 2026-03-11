@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f1ef62d421b700fa","x":-109,"y":-20,"width":250,"height":60,"type":"text","text":"Tìm kiếm thông tin"},
+		{"id":"ff1dd9d5c59f4400","x":-109,"y":100,"width":250,"height":60,"type":"text","text":"Đánh giá các phương án"},
+		{"id":"4f0613ddfd018d9d","x":-109,"y":220,"width":250,"height":60,"type":"text","text":"Quyết định mua"},
+		{"id":"b7e79ec15a4bdc9c","x":-109,"y":340,"width":250,"height":60,"type":"text","text":"Đánh giá sau khi mua"},
+		{"id":"5aee11c4c37952b1","x":-109,"y":-140,"width":250,"height":60,"type":"text","text":"Nhận biết nhu cầu"}
+	],
+	"edges":[
+		{"id":"c935b743f5de2577","fromNode":"5aee11c4c37952b1","fromSide":"bottom","toNode":"f1ef62d421b700fa","toSide":"top"},
+		{"id":"4987fef7b65d1534","fromNode":"f1ef62d421b700fa","fromSide":"bottom","toNode":"ff1dd9d5c59f4400","toSide":"top"},
+		{"id":"0cff4e37e12194c6","fromNode":"ff1dd9d5c59f4400","fromSide":"bottom","toNode":"4f0613ddfd018d9d","toSide":"top"},
+		{"id":"27225498956f8011","fromNode":"4f0613ddfd018d9d","fromSide":"bottom","toNode":"b7e79ec15a4bdc9c","toSide":"top"}
+	]
+}

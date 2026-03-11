@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"935e15f5a7d76ebd","type":"text","text":"Nhân tố kích thích","x":-372,"y":-84,"width":192,"height":60},
+		{"id":"a0a73f84e2d995ac","type":"text","text":"Hộp đen ý thức","x":-20,"y":-84,"width":173,"height":60},
+		{"id":"9e6fe12171111eed","type":"text","text":"Phản ứng đáp lại","x":340,"y":-90,"width":185,"height":60},
+		{"id":"2aa9b00a32a3493a","x":-417,"y":18,"width":317,"height":242,"type":"text","text":"\n| Marketing | Môi trường              |\n| --------- | ----------------------- |\n| Sản phẩm  | Kinh tế                 |\n| Giá       | Văn hóa                 |\n| Phân phối | Chính trị               |\n| Xúc tiến  | Luật pháp<br>Cạnh tranh |\n"},
+		{"id":"c80b7dac1fb6c76b","x":-59,"y":18,"width":250,"height":121,"type":"text","text":"\n| Đặc tính của người tiêu dùng | Quá trình quyết định mua |\n| ---------------------------- | ------------------------ |\n|                              |                          |\n"},
+		{"id":"647a36d13189ee7d","x":308,"y":18,"width":250,"height":195,"type":"text","text":"Lựa chọn\n- Sản phẩm\n- Thương hiệu\n- Nhà cung ứng\n- Thời gian và địa điểm\n- Khối lượng mua"}
+	],
+	"edges":[
+		{"id":"218078dc2e8fe237","fromNode":"935e15f5a7d76ebd","fromSide":"right","toNode":"a0a73f84e2d995ac","toSide":"left"},
+		{"id":"063e39f392354758","fromNode":"a0a73f84e2d995ac","fromSide":"right","toNode":"9e6fe12171111eed","toSide":"left"}
+	]
+}

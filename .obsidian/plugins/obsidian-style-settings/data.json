@@ -19,12 +19,16 @@
   "a-unique-id@@the-color": "#09C9ED",
   "a-unique-id@@the-background-color": "#000000",
   "kotaindah55-animated-cursor@@cursor-blink-infinity": true,
-  "kotaindah55-animated-cursor@@cursor-move-speed": 65,
-  "kotaindah55-animated-cursor@@cursor-blink-rate": 850,
+  "kotaindah55-animated-cursor@@cursor-move-speed": 90,
+  "kotaindah55-animated-cursor@@cursor-blink-rate": 1500,
   "obsidian-velocity@@color-highlight-rgb": "var(--highlight-cyan-rgb)",
   "obsidian-velocity@@theme-paint-dark": "brg",
   "obsidian-velocity@@enable-special-text": true,
   "obsidian-velocity@@enable-special-code": true,
   "obsidian-velocity@@line-height-normal": "1.7",
-  "obsidian-velocity@@vl-layout-padding": "8px"
+  "obsidian-velocity@@vl-layout-padding": "8px",
+  "hidden-grotto-ui@@grotto-rounded-ui": true,
+  "hidden-grotto-tag@@grotto-tag-rounded": true,
+  "hidden-grotto-tag@@grotto-tag-accented": true,
+  "hidden-grotto-style@@color-palettes": "preset-pirouette-meloetta"
 }

@@ -15,11 +15,9 @@
   "obsidian-charts",
   "widgets",
   "editing-toolbar",
-  "obsidian-hider",
   "excalibrain",
   "beautitab",
   "obsidian-excalidraw-plugin",
-  "obsidian-functionplot",
   "obsidian-style-settings",
   "obsidian-math-plus",
   "solve",
@@ -32,7 +30,8 @@
   "notebook-navigator",
   "plugin-manager",
   "animated-cursor",
-  "quartz-syncer",
   "ink",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-hider",
+  "obsidian-functionplot"
 ]
