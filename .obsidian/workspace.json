@@ -11,14 +11,14 @@
             "id": "338ed684bc9738d6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Phương pháp chứng từ kế toán"
             }
           }
         ]
@@ -152,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nguyên Lý Kế Toán/Phương pháp chứng từ kế toán.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Phương pháp chứng từ kế toán"
             }
           },
           {
@@ -208,11 +209,13 @@
   },
   "active": "338ed684bc9738d6",
   "lastOpenFiles": [
+    "Marketing căn bản/Hành vi của khách hàng.md",
+    "Kỹ năng mềm/Kỹ năng tranh biện và kỹ năng học tập, làm việc trong môi trường số.md",
+    "Kỹ năng mềm/Hướng dẫn tiểu luận.md",
     "Kinh tế phát triển bền vững/Nguồn lực và động lực phát triển kinh tế.md",
     "Quản trị học/Lập kế hoạch.md",
     "Quản trị học/Kiểm tra.md",
     "Kinh tế học/Hành vi của người tiêu dùng và hành vi doanh nghiệp.md",
-    "Marketing căn bản/Hành vi của khách hàng.md",
     "Canvas/Quy trình thông qua quyết định mua hàng.canvas",
     "Kinh tế học/Chu kì kinh tế và chính sách kinh tế.md",
     "Kinh tế học/Lạm phát và thất nghiệp.md",
@@ -242,8 +245,6 @@
     "Excalidraw/Drawing 2026-03-07 21.48.50.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 16.28.08.excalidraw.md",
     "Excalidraw/Drawing 2026-03-07 16.21.55.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-07 16.01.48.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-07 16.00.46.excalidraw.md",
     "Lập và phân tích dự án",
     "Nguyên Lý Thống Kê KInh Tế",
     "Tài chính - Tiền tệ",
