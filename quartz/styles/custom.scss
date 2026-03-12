@@ -38,3 +38,22 @@
       color: #89ddff;
     }
   }
+  /* Nút Đóng góp tài liệu ở Trang chủ */
+.submit-btn {
+  display: inline-block;
+  background-color: var(--secondary); /* Màu xanh dương hoặc màu nhấn của ông */
+  color: var(--light) !important;
+  padding: 15px 30px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: none !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    transform: translateY(-3px) scale(1.02);
+    background-color: var(--tertiary); /* Đổi sang màu tím khi di chuột */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  }
+}
