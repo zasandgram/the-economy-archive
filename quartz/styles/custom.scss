@@ -1,3 +1,40 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* ==========================================
+   🦇 THE ECONOMY ARCHIVE - HIDDEN GROTTO THEME 🦇
+   ========================================== */
+
+   article {
+    /* H1: Tiêu đề to nhất - Màu Xanh dương sáng (Có gạch chân mờ cho ngầu) */
+    h1 {
+      color: #82aaff; 
+      border-bottom: 2px solid rgba(130, 170, 255, 0.2);
+      padding-bottom: 0.3em;
+    }
+  
+    /* H2: Mục lớn - Màu Tím Neon */
+    h2 {
+      color: #c792ea;
+    }
+  
+    /* H3: Mục nhỏ hơn - Màu Đỏ san hô / Hồng phấn */
+    h3 {
+      color: #f07178;
+    }
+  
+    /* H4: Mục chi tiết - Màu Vàng Cam */
+    h4 {
+      color: #ffcb6b;
+    }
+  
+    /* H5: Xanh lá mạ */
+    h5 {
+      color: #c3e88d;
+    }
+  
+    /* H6: Xanh dương nhạt */
+    h6 {
+      color: #89ddff;
+    }
+  }

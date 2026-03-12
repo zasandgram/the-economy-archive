@@ -23,31 +23,31 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Lora",
+        body: "Inter",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#F5F7FA", // Nền sáng hơi ngả xanh xám
+          lightgray: "#E0E3E8",
+          gray: "#8F95A3",
+          darkgray: "#4A505E", // Chữ nội dung
+          dark: "#1D212B", // Chữ tiêu đề (đen sâu)
+          secondary: "#0576C7", // Xanh dương đậm
+          tertiary: "#8250DF", // Tím (để cho có vibe Grotto)
+          highlight: "rgba(5, 118, 199, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#161920", // Nền "Hang động" cực tối
+          lightgray: "#292d3e", // Viền và Graph view nhạt
+          gray: "#7982a6", // Chữ phụ (ngày tháng, tag)
+          darkgray: "#c3c7db", // Chữ nội dung (xám sáng dễ đọc)
+          dark: "#ffffff", // Chữ tiêu đề (trắng muốt)
+          secondary: "#82aaff", // Xanh dương sáng (giống màu H1 của ông)
+          tertiary: "#c792ea", // Tím neon (giống màu H2 của ông)
+          highlight: "rgba(130, 170, 255, 0.15)", // Bôi đen màu xanh nhạt
           textHighlight: "#b3aa0288",
         },
       },
