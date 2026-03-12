@@ -57,3 +57,42 @@
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
   }
 }
+/* 1. Thêm ảnh nền mờ cho toàn trang web */
+body {
+  background-image: radial-gradient(circle, rgba(22, 25, 32, 0.8) 0%, #161920 100%), 
+                    url('LINK_ẢNH_NỀN_CỦA_ÔNG');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* 2. Tạo hiệu ứng Banner cho Tiêu đề bài viết */
+.article-title {
+  margin-top: 2rem;
+  padding: 100px 20px 20px 20px; /* Tạo khoảng trống cho ảnh */
+  background-image: linear-gradient(to bottom, transparent, var(--light)), 
+                    url('LINK_ẢNH_BANNER');
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  color: var(--secondary) !important;
+}
+/* 🦇 Vẻ đẹp của sự Trích dẫn (Blockquote Custom) 🦇 */
+blockquote {
+  background-color: #2b2a2e; /* Nền xám đen quyền lực */
+  border: 1px solid #c96b5d; /* Viền cam/đỏ giống Obsidian của ông */
+  border-left: 5px solid #c96b5d; /* Viền trái dày hơn làm điểm nhấn */
+  border-radius: 8px; /* Bo góc mềm mại */
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+  
+  /* Căn chỉnh chữ bên trong */
+  p {
+    font-family: var(--headerFont); /* Dùng font Lora có chân cho sang */
+    font-style: italic; /* Chữ in nghiêng */
+    font-size: 1.1em;
+    color: #e0e0e0;
+    line-height: 1.6;
+    margin: 0;
+    text-align: center; /* Căn giữa y như trong ảnh của ông */
+  }
+}

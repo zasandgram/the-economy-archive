@@ -1,6 +1,3 @@
-```widgets
-type: clock
-```
 # Khái niệm
 >Môi trường của tổ chức là tất cả những yếu tố thuộc môi trường ==bên ngoài== và môi trường ==bên trong== có ảnh hưởng đến quá trình tồn tại và phát triển tổ chức
 
@@ -34,17 +31,11 @@ Môi trường
 - GDP tác động đến nhu cầu của gia đình, doanh nghiệp, nhà nước
 - GDP tác động đến tất cả các mặt hoạt động quản trị như: hoạch định, lãnh đạo, tổ chức, kiểm soát và ra quyết định
 ### Lạm phát
-```widgets
-type: quote
-quote: Lạm phát cao hay thấp có ảnh hưởng tới tốc độ đầu tư vào nền kinh tế
-```
+>*”Lạm phát cao hay thấp có ảnh hưởng tới tốc độ đầu tư vào nền kinh tế”*
 - Ảnh hưởng tới tâm lý và tiêu dùng của người dân
 - Việc dự đoán chính xác yếu tố là rất quan trọng trong chiến lược sản xuất kinh doanh
 ### Lãi suất
-```widgets
-type: quote
-quote: Lãi suất và xu hướng của lãi suất trong nền kinh tế có ảnh hưởng đến xu thể của tiết kiệm, tiêu dùng và đầu tư và do vậy ảnh hưởng tới hoạt động của các doanh nghiệp
-```
+>*”Lãi suất và xu hướng của lãi suất trong nền kinh tế có ảnh hưởng đến xu thể của tiết kiệm, tiêu dùng và đầu tư và do vậy ảnh hưởng tới hoạt động của các doanh nghiệp”*
 ### Tỷ giá hối đoái
 ### Hệ thống thuế và mức thuế
 ## Môi trường chính trị và pháp luật

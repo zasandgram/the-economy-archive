@@ -1,9 +1,6 @@
 # Đối tượng của thống kê
 ## Sơ lược phát triển và vai trò thống kê trong đời sống xã hội
-```widgets
-type: quote
-quote: Thống kê học là 1 môn khoa học nghiên cứu hệ thống các phương pháp thu thập, xử lý và phân tích các con số (mặt lượng) của những hiện tượng số lớn để tìm hiểu bản chất và tính quy luật vốn có của chúng (mặt chất) trong thời gian và điều kiện cụ thể.
-```
+> *”Thống kê học là 1 môn khoa học nghiên cứu hệ thống các phương pháp thu thập, xử lý và phân tích các con số (mặt lượng) của những hiện tượng số lớn để tìm hiểu bản chất và tính quy luật vốn có của chúng (mặt chất) trong thời gian và điều kiện cụ thể.”*
 ## Đối tượng thống kê
 **Đối tượng nghiên cứu của thống kê kinh tế** được xác định bao quát là **mặt lượng trong mối liên hệ mật thiết với mặt chất của các hiện tượng kinh tế - xã hội số lớn**, luôn được đặt trong các điều kiện cụ thể về **thời gian và không gian (địa điểm)**.
 Cụ thể hơn, trong bối cảnh kinh tế, đối tượng nghiên cứu của thống kê tập trung vào các hiện tượng và quá trình thực tiễn như:

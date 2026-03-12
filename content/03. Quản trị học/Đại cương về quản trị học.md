@@ -3,10 +3,7 @@
 ### Khái niệm
 > Tổ chức là một nhóm làm việc cùng nhau nhằm đạt một mục đích chung
 
-```widgets
-type: quote
-quote: Tổ chức là một tập hợp của hai hoặc nhiều người cùng hoạt động trong những hình thái cơ cấu nhất định để đạt được các mục tiêu chung
-```
+>*”Tổ chức là một tập hợp của hai hoặc nhiều người cùng hoạt động trong những hình thái cơ cấu nhất định để đạt được các mục tiêu chung”*
 - Ví dụ:
 	- Gia đình, doanh nghiệp, cơ quan, tổ chức,...
 ### Lợi ích
@@ -49,10 +46,7 @@ Nhằm đạt được năng suất năng động mà cá nhân không thể là
 >Nếu đối tượng không thực hiện đúng -> Bị trừng phạt -> Bắt buộc phải vào khuôn khổ
 
 ##### Xét theo tính chất
-```widgets
-type: quote
-quote: Quản trị là sự tác động có hướng đích của chủ thể quản trị lên đối tượng quản trị nhằm đạt được những mục đích trong điều kiện biến động của môi trường
-```
+> *”Quản trị là sự tác động có hướng đích của chủ thể quản trị lên đối tượng quản trị nhằm đạt được những mục đích trong điều kiện biến động của môi trường”*
 - Quản trị giới vô sinh: nhà xưởng, ruộng đất, hầm mỏ,...
 - Quản trị giới sinh vật: Vật nuôi, cây trồng,...
 - Quản trị xã hội con người: doanh nghiệp, gia đình,...
