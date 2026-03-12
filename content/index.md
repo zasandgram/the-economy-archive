@@ -16,5 +16,4 @@ Thay vì những tệp PDF phẳng lì và rời rạc, chúng tôi kết nối 
 * **Graph View:** Trực quan hóa mối liên hệ giữa các môn học.
 * **Atomic Notes:** Kiến thức được chia nhỏ, tinh lọc và dễ dàng tra cứu.
 * **Open Contribution:** Hệ thống vận hành trên nền tảng Git, nơi mỗi sinh viên là một "Commit" đóng góp cho sự phát triển chung.
-
 ---
