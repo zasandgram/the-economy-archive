@@ -19,30 +19,37 @@ Quá trình tìm kiếm các giải pháp nhằm thúc đẩy bán ra, lôi kéo
 | Hệ thống <font color="#ff0000">không mang tính hệ thống</font>, chỉ nghiên cứu hành động của khách hàng đang diễn ra trên thị trường, <font color="#ff0000">chưa nghiên cứu suy nghĩ của khách hàng, chưa dự báo được tương lai</font> | Hoạt động <font color="#ff0000">mang tính hệ thống</font>, nghiên cứu tất cả các khâu của quá trình sản xuất, không chỉ nghiên cứu hành động mà còn nghiên cứu suy nghĩ trước khi xảy ra hành động của khách hàng và dự báo tương lai hành động |
 # Khái niệm cơ bản trong Marketing
 ## Nhu cầu tự nhiên
-```widgets
+    ```text
+  > $1text
+  > $1widgets
 type: quote
 quote: Nhu cầu là cảm giác thiếu hụt một thứ gì đó mà con người có thể cảm nhận được.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 - Phát sinh do: nhu cầu sinh lý, cá nhân, môi trường sống,...
 - Doanh nghiệp không tạo ra nhu cầu, chỉ khơi gợi và góp phần thỏa mãn nhu cầu
 - Giúp doanh nghiệp xác định được ngành hàng, loại mặt hàng, loại sản phẩm
 - Trả lời câu hỏi thỏa mãn nhu cầu gì của khách hàng
 ## Mong muốn
-```widgets
+  ```text
+  > $1widgets
 type: quote
 quote: Mong muốn là hình thái cụ thể của nhu cầu cơ bản khi nó được định hình qua lăng kinh văn hóa, môi trường sống và cá tính của mỗi cá nhân.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 Điều này giúp doanh nghiệp
 - Xác định thuộc tính, đặc điểm của sản phẩm/ dịch vụ
 - Tăng khả năng thích ứng và cạnh tranh trên thị trường
 ## Nhu cầu có khả năng thanh toán
-```widgets
+  ```text
+  > $1widgets
 type: quote
 quote: Nhu cầu có khả năng thanh toán là mong muốn được đảm bảo bằng khả năng thanh toán.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 Cầu thị trường là cầu có khả năng thanh toán
 Giúp doanh nghiệp xác định với mức giá sẽ chấp nhận
 Cầu luôn gắn với
@@ -58,13 +65,17 @@ Người bán <font color="#ff0000">chỉ thấy những lợi ích chức năng
 type: quote
 quote: Trao đổi là hành động mà con người nhận từ người khác một thứ mình mong muốn và đưa lại cho họ một thứ gì đó.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 ## Giao dịch
-```widgets
+    ```text
+  > $1text
+  > $1widgets
 type: quote
 quote: Giao dịch là một cuộc trao đổi mang tính chất thương mại những vật có giá trị giữa hai bên.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 ### Đặc điểm
 1. Khi các bên tham gia trao đổi thương lượng và đạt được 1 thỏa thuận thì có nghĩa là một giao dịch được thực hiện
 2. Giao dịch là đơn vị cơ bản của trao đổi. Thành công của trao đổi được đo bằng thành công của những giao dịch
@@ -91,16 +102,21 @@ Thị trường là những tập hợp những khách hàng tiềm ẩn có cù
 
 Nói cách khác, một thị trường chỉ có quy mô lớn khi có nhiều người vừa có nhu cầu, vừa có khả năng chi trả (tài nguyên), và vừa sẵn sàng thực hiện giao dịch mua bán.
 ## Marketing
-```widgets
+  ```text
+  > $1widgets
 type: quote
 quote: Marketing là quá trình làm việc với thị trường để thực hiện các cuộc trao đổi nhằm thỏa mãn nhu cầu và mong muốn của con người.
 author: Philip Kotler (2007)
-```
-```widgets
+  ```text
+  > $1
+    ```text
+  > $1text
+  > $1widgets
 type: quote
 quote: Bằng việc sử dụng 4 công cụ Marketing-mix, doanh nghiệp sẽ làm thỏa mãn khách hàng thông qua đó đạt được mục tiêu về lợi nhuận.
 author: Philip Kotler (2007)
-```
+  ```text
+  > $1
 # Chức năng và vai trò của Marketing
 ## Chức năng
 - Thỏa mãn tốt nhất nhu cầu tiêu dùng của xã hội

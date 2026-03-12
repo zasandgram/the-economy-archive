@@ -61,20 +61,16 @@ Nhằm đạt được năng suất năng động mà cá nhân không thể là
 
 3. Hoạt động quản trị gắn liền với trao đổi thông tin và liên kết ngược
 4. Hoạt động quản trị có khả năng thích nghi
-```widgets
-type: quote
-quote: Đối tượng quản trị đóng vai trò thực hiện trực tiếp các hoạt động nhằm đạt được kết quả, trong khi chủ thể quyết định kế hoạch, thông tin.
-```
+> *”Đối tượng quản trị đóng vai trò thực hiện trực tiếp các hoạt động nhằm đạt được kết quả, trong khi chủ thể quyết định kế hoạch, thông tin.”*
+
 ### Quản trị tổ chức
 > là một kế hoạch, tổ chức, lãnh đạo, kiểm tra nguồn lực và hoạt động nhằm đạt được mục đích của tổ chức với kết quả và hiệu quả cao trong điều kiện môi trường luôn biến động
 
 ### Nhà quản trị
 > là người trực tiếp thực hiện các chức năng quản trị nhằm đảm bảo, cho tổ chức đạt được những mục tiêu của mình với kết quả và hiệu quả cao
 
-```widgets
-type: quote
-quote: Nhà quản trị là người thừa hành, nhưng có công việc là quản lý cấp dưới (Người thừa hành)
-```
+>*”Nhà quản trị là người thừa hành, nhưng có công việc là quản lý cấp dưới (Người thừa hành)”*
+
 Một nhà quản trị được xác định bởi 3 yếu tố cơ bản
 - Có vị thể trong các tổ chức với những quyền hạn nhất định trong quá trình ra quyết định
 - Có chức năng thể hiện những công việc cần thực hiện trong toàn bộ hoạt động của tổ chức
@@ -117,10 +113,7 @@ Các nhóm vai trò của quản trị
 
 # Sự phát triển của lý thuyết quản trị
 ## Bối cảnh lịch sử
-```widgets
-type: quote
-quote: Cách học tốt nhất là học từ quá khứ
-```
+> *”Cách học tốt nhất là học từ quá khứ”*
 ### Trường phái quản trị cổ điển
 Lý thuyết quản trị cổ điển được chia ra làm 3 lý thuyết chính
 1. Quản trị kiểu thư lại (quan liêu)
