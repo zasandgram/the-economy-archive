@@ -9,10 +9,12 @@
 - là sự thống nhất hữu cơ của các thuộc tính, yếu tố tạo nên sự vật, hiện tượng, làm cho sự vật, hiện tượng là nó mà không phải là sự vật, hiện tượng khác
 => là cái làm nền bản chất của sự vật, giúp phân biệt nó với cái khác
 ## Mối quan hệ giữa lượng và chất
-```widgets
+```text
+  > $1widgets
 type: quote
 quote: Lượng đổi dẫn đến chất đổi
-```
+```text
+  > $1
 - Lượng là yếu tố động => luôn thay đổi
 - Lượng biến đổi dần dần và tuần tự
 - Biến đổi về lượng có xu hướng tích luỹ => đạt tới điểm nút
