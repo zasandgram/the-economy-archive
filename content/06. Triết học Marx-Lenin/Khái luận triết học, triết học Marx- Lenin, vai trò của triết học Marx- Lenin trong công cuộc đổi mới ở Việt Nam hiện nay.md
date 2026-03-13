@@ -17,11 +17,9 @@ Triết học ra đời từ 2 nguồn gốc
 >Triết học là hệ thống quan điểm lí luận chung nhất về thế giới và vị trí con người trong thế giới đó, là khoa học về **những quy luật vận động,** phát triển chung nhất của tự nhiên, xã hội và tư duy.
 ## Vấn đề cơ bản của triết học
 ### Nội dung cơ bản của triết học
-```widgets
-type: quote
-quote:Vấn đề cơ bản lớn nhất của mọi triết học, đặc biệt là triết học hiện đại là mối quan hệ giữa tư duy và tồn tại
-author: Frieddrich Angern
-```
+> "*”Vấn đề cơ bản lớn nhất của mọi triết học, đặc biệt là triết học hiện đại là mối quan hệ giữa tư duy và tồn tại”*
+-Frieddrich Angern
+
 Vấn đề cơ bản của triết học bao gồm
 - Bản thể luận
 	- Nhất nguyên
