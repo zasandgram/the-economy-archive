@@ -167,6 +167,7 @@ $$
 =>Trạng thái cân bằng xảy ra khi: $Q_{D} = Q_{S}$
 ### Trạng thái mất cân bằng
 >Thiếu hụt của thị trường là kết quả của việc cầu lớn hơn cung ở một mức giá nào đó
+
 >Thiếu hụt là sự thặng dư của cầu
 ### Trạng thái cân bằng mới
 - Cầu dịch chuyển
