@@ -1,10 +1,7 @@
 # Khái niệm nhận thức
 ## Nguồn gốc, bản chất của nhận thức
 ### Nguồn gốc nhận thức
-```widgets
-type: quote
-quote: Nhận thức không tự nhiên mà có, nhưng cũng không phải do thần linh ban phát
-```
+>*”Nhận thức không tự nhiên mà có, nhưng cũng không phải do thần linh ban phát”*
 #### Nguồn gốc tự nhiên
 Thế giới khách quan
 => là môi trường xung quanh
@@ -43,11 +40,8 @@ là quá trình mô phỏng hiện thực khách quan trong phòng thí nghiệm
 > là tiêu chuẩn của chân lý
 - Chỉ có qua thực nghiệm mới có thể xác định tính đúng đắn của một tri thức
 # Con đường biện chứng của sự nhận thức chân lý
-```widgets
-type: quote
-quote: Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn
-author: Vladimir Ivyrch Lenin
-```
+>*Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn”*
+-Vladimir Ivyrch Lenin
 ## Nhận thức cảm tính
 >là sự phản ánh trực tiếp khách thể thông qua các giác quan
 - Cảm giác: nảy sinh do sự tác động trực tiếp của khách thể lên các giác quan của con người hình thành tri thức đơn giản nhất về một thuộc tính riêng lẻ của sự vật

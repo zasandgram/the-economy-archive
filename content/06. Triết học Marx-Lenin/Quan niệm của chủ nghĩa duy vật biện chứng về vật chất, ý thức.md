@@ -6,31 +6,15 @@
 ### Quan niệm của Marx và Engels, Lenin
 #### Quan niệm của Engels
 - Để có một quan niệm đúng đắn về vật chất, cần phải có sự phân biệt rõ ràng giữa *vật chất với tính cách là một phạm trù triết học*, một sáng tạo, một công trình trí óc của một tư duy con người trong quá trình phản ánh hiện thực chứ không phải là sản phẩm chủ quan của tư duy
-```text
-  > $1widgets
-type: quote
-quote: Vật chất, với tư cách là vật chất, là một sáng tạo thuần tuý của tư duy và là một sự trừu tượng
-author: Frieddrich Engels
-```text
-  > $1
-
+>*”Vật chất, với tư cách là vật chất, là một sáng tạo thuần tuý của tư duy và là một sự trừu tượng”*
+-Frieddrich Engels
 - Các sự vật, hiện tượng của thế giới, dù rất phong phú, muôn vẻ nhưng chúng vẫn có một đặc tính chung, thống nhất đó là tính vật chất - tính tồn tại, độc lập không lệ thuộc vào ý thức
 #### Quan niệm định nghĩa vật chất của Lenin
+>*”Vật chất không phải chỉ bảo gồm những gì được tạo nên từ nguyên tử, mà là tất thảy những gì tồn tại khách quan, độc lập, không phụ thuộc vào ý thức”*
+-Vladimir Iviych Lenin
 
-```text
-  > $1widgets
-type: quote
-quote: Vật chất không phải chỉ bảo gồm những gì được tạo nên từ nguyên tử, mà là tất thảy những gì tồn tại khách quan, độc lập, không phụ thuộc vào ý thức
-author: Vladimir Iviych Lenin
-```text
-  > $1
-```text
-  > $1widgets
-type: quote
-quote: Vật chất là một phạm trù triết học, dùng đề chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác 
-author: Vladimir Iviych Lenin - Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán
-```text
-  > $1
+>*”Vật chất là một phạm trù triết học, dùng đề chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác “*
+ -Vladimir Iviych Lenin - Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán
 1. Vật chất là thực tại khách quan - cái tồn tại hiện thực bên ngoài ý thức và không lệ thuộc vào ý thức
 2. Vật chất là cái mà khi tác động vào các giác quan con người thì đem lại cho con người cảm giác
 3. Vật chất là cái mà ý thức chẳng qua chỉ là sự phản ánh của nó
@@ -43,21 +27,12 @@ author: Vladimir Iviych Lenin - Chủ nghĩa duy vật và chủ nghĩa kinh ngh
 ### Phương thức tồn tại của vật chất
 #### Vận động
 >Vận động là mọi sự biến đổi nói chung
-```text
-  > $1widgets
-type: quote
-quote: Vận động, hiểu theo nghĩa chung nhất, -tức được hiểu là một phương thức tồn tại của vật chất, là một thuộc tính cố hữu của vật chất, thì bao gồm tất cả mọi sự thay đổi và mọi quá trình diễn ra trong vũ trụ, kể cả sự thay đổi vị trí đơn giản cho đến tư duy
-author: Frieddrich Engels
-```text
-  > $1
->Là thuộc tính cố hữu, là phương thức tồn tại của vật chất
-```text
-  > $1widgets
-type: quote
-quote: Vận động là phương thức tồn tại của vật chất
-```text
-  > $1
 
+>*”Vận động, hiểu theo nghĩa chung nhất, -tức được hiểu là một phương thức tồn tại của vật chất, là một thuộc tính cố hữu của vật chất, thì bao gồm tất cả mọi sự thay đổi và mọi quá trình diễn ra trong vũ trụ, kể cả sự thay đổi vị trí đơn giản cho đến tư duy”*
+-Frieddrich Engels
+
+>Là thuộc tính cố hữu, là phương thức tồn tại của vật chất
+>*”Vận động là phương thức tồn tại của vật chất”*
 - Vận động của vật chất là vận động ==tự thân== (chống quan điểm duy tâm và siêu hình về vận động)
 - Vận động sinh ra cùng với sự vật và chỉ mất đi khi sự vật hiện tượng đó mất đi => chuyển hoá thành sự vật và hình thức vận động khác (vận động nói chung vĩnh cửu)
 **Hình thức vận động cơ bản của vật chất**
@@ -99,14 +74,7 @@ Nguồn gốc ý thức
 		- Ngôn ngữ
 Ý thức là một thuộc tính của một dạng vật chất có tổ chức cao nhất, đó là bộ óc con người. Bộ óc con người là cơ quan vật chất
 Bộ não con người là sản phẩm lâu dài về vật chất
-```text
-  > $1widgets
-type: quote
-quote: Lao động là nguồn gốc của ý thức
-```text
-  > $1
-
-
+>*”Lao động là nguồn gốc của ý thức”*
 ##### Nguồn gốc tự nhiên
 - Bộ não con người
 >là dạng vật chất có tổ chức cao nhất, là cơ sở sinh lý thần kinh của ý thức. Bộ óc con người càng hoàn thiện thì khả năng nhận thức và ý thức của con người càng phong phú và sâu sắc
@@ -122,12 +90,7 @@ quote: Lao động là nguồn gốc của ý thức
 #### Bản chất ý thức
 - Hình ảnh chủ quan
 - Hình ảnh khách quan
-```text
-  > $1widgets
-type: quote
-quote: Ý thức là sự phản ánh tích cực, sáng tạo gắn với thực tiễn xã hội
-```text
-  > $1
+>*”Ý thức là sự phản ánh tích cực, sáng tạo gắn với thực tiễn xã hội”*
 - Ý thức là "hình ảnh" về hiện thực khách quan trong óc người
 - Nội dung phản ánh là khách quan. Hình thức phản ánh là chủ quan
 - Trao đổi thông tin giữa chủ thể và đối tượng phản ánh
@@ -135,12 +98,7 @@ quote: Ý thức là sự phản ánh tích cực, sáng tạo gắn với thự
 - Vận dụng để cải tạo hoạt động thực tiễn
 #### Kết cấu ý thức
 ##### Các lớp cấu trúc của ý thức
-```text
-  > $1widgets
-type: quote
-quote: Tri thức là yếu tố cơ bản nhất, là hạt nhân của ý thức
-```text
-  > $1
+>*”Tri thức là yếu tố cơ bản nhất, là hạt nhân của ý thức”*
 - Tri thức
 - Tình cảm
 - Niềm tin

@@ -10,10 +10,12 @@
 => là cái làm nền bản chất của sự vật, giúp phân biệt nó với cái khác
 ## Mối quan hệ giữa lượng và chất
 ```text
+  > $1text
   > $1widgets
 type: quote
 quote: Lượng đổi dẫn đến chất đổi
 ```text
+  > $1text
   > $1
 - Lượng là yếu tố động => luôn thay đổi
 - Lượng biến đổi dần dần và tuần tự
