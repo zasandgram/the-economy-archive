@@ -48,24 +48,14 @@ là <font color="#ff0000">tất cả những gì có thể thỏa mãn được 
 ### Cận thị Marketing
 Người bán <font color="#ff0000">chỉ thấy những lợi ích chức năng</font> của sản phẩm và <font color="#ff0000">nhu cầu thể chất</font> của khách hàng, họ không nhận thấy khách hàng mua sản phẩm còn <font color="#ff0000">vì lợi ích xúc cảm, tính biểu tượng mà sản phẩm mang lại</font>.
 ## Trao đổi
-```text
-  > $1text> Trao đổi là hành động mà con người nhận từ người khác một thứ mình mong muốn và đưa lại cho họ một thứ gì đó.text
-  > $1text
-  > $1text
-  > $1text> Giao dịch là một cuộc trao đổi mang tính chất thương mại những vật có giá trị giữa hai bên.text
-  > $1text
-  > $1text> Marketing là quá trình làm việc với thị trường để thực hiện các cuộc trao đổi nhằm thỏa mãn nhu cầu và mong muốn của con người.text
-  > $1text
-  > $1text
-  > $1text
-  > $1widgets
-type: quote
-quote: Bằng việc sử dụng 4 công cụ Marketing-mix, doanh nghiệp sẽ làm thỏa mãn khách hàng thông qua đó đạt được mục tiêu về lợi nhuận.
-author: Philip Kotler (2007)
-  ```text
-  > $1text
-  > $1text
-  > $1
+> Trao đổi là hành động mà con người nhận từ người khác một thứ mình mong muốn và đưa lại cho họ một thứ gì đó.text
+ 
+ > Giao dịch là một cuộc trao đổi mang tính chất thương mại những vật có giá trị giữa hai bên.text
+  
+  > Marketing là quá trình làm việc với thị trường để thực hiện các cuộc trao đổi nhằm thỏa mãn nhu cầu và mong muốn của con người.text
+
+>*”Bằng việc sử dụng 4 công cụ Marketing-mix, doanh nghiệp sẽ làm thỏa mãn khách hàng thông qua đó đạt được mục tiêu về lợi nhuận.”*
+ -Philip Kotler (2007)
 # Chức năng và vai trò của Marketing
 ## Chức năng
 - Thỏa mãn tốt nhất nhu cầu tiêu dùng của xã hội
