@@ -183,10 +183,10 @@ $$
 ## Giá cả cân bằng
 >là mức giá mà ở đó số lượng cung bằng số lượng cầu, ứng với số lượng này gọi là số lượng cân bằng
 ## Điều chỉnh lượng giao dịch
-[[Điều chỉnh Marshall]]
+[[Kinh tế học/Others/Điều chỉnh Marshall]]
 Sự điều chỉnh lượng cung cấp quyết định trạng thái cân bằng thị trường
 ## Điều chỉnh giá cả
-[[Điều chỉnh Walras]]
+[[Kinh tế học/Others/Điều chỉnh Walras]]
 Sự điều chỉnh giá cả quyết định trạng thái cân bằng thị trường
 ## Điều chỉnh kiểu mạng nhện
-[[Điều chỉnh kiểu mạng nhện]]
+[[Kinh tế học/Others/Điều chỉnh kiểu mạng nhện]]

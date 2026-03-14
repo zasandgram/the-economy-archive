@@ -10,7 +10,7 @@ Kiểm tra là một <font color="#ff0000">mắt xích trong chuỗi quy trình 
 - Dựa trên tiêu chuẩn và mục tiêu
 Kiểm tra không thể tồn tại nếu thiếu hoạch đinh. <font color="#ff0000">Mục tiêu</font> chính là nền tảng và là "thước đo" để kiểm soát; chúng biến các kỳ vọng thành những con số có thể đo lượng được, giúp nhà quản trị dễ dàng phân bổ nguồn lực và kiểm soát hiệu quả
 - Cơ chế đối chiều và phản hồi
-Bản chất của kiểm tra là <font color="#ff0000">so sánh hành động thực tiễn với kế hoạch</font>. Trong các mô hình hiện đại như [[TQM (Total Quality Management)]] hoặc [[PDCA (Plan-Do-Check-Act)]], kiểm tra là bước phân tích kết quả thừ nghiệm so với kỳ vọng ban đầu để từ đó thực hiện dành động cải tiến
+Bản chất của kiểm tra là <font color="#ff0000">so sánh hành động thực tiễn với kế hoạch</font>. Trong các mô hình hiện đại như [[Public-Library/03. Quản trị học/Variebles/TQM (Total Quality Management)]] hoặc [[Public-Library/03. Quản trị học/Variebles/PDCA (Plan-Do-Check-Act)]], kiểm tra là bước phân tích kết quả thừ nghiệm so với kỳ vọng ban đầu để từ đó thực hiện dành động cải tiến
 - Tính khách quan và dựa trên dữ liệu
 Trong quản trị hiện đại và trường phái định lượng, kiểm tra đòi hỏi các quyết định phải dựa trên <font color="#ff0000">dữ liệu thực tiễn, phân tích thống kê và các mô hình toán học</font> thay vì cảm tỉnh cá nhân
 - Công cụ duy trì kỷ cương và hiệu quả
@@ -41,7 +41,7 @@ Mặc dù bước này thường nằm trong chức năng hoạch định, nhưn
 #### Phân tích, so sánh và đánh giá kết quả
 Sau khi có dữ liệu, nhà quản trị tiến hành đối chiếu kết quả thực tế với các tiêu chuẩn đã thiết lập ban đầu. Giai đoạn này tập trung vào các nội dung:
 - **Xác định độ lệch chuẩn:** Tìm ra các sai lệch, thiếu hụt hoặc dư thừa giữa kết quả thực hiện và kế hoạch.
-- **Phân tích nguyên nhân gốc rễ:** Làm rõ tại sao sai lệch xảy ra bằng cách sử dụng các công cụ như [[biểu đồ nhân quả (xương cá)]], [[biểu đồ Pareto]] hoặc kỹ thuật "5 Tại sao" (5 Whys).
+- **Phân tích nguyên nhân gốc rễ:** Làm rõ tại sao sai lệch xảy ra bằng cách sử dụng các công cụ như [[Public-Library/03. Quản trị học/Variebles/biểu đồ nhân quả (xương cá)]], [[Public-Library/03. Quản trị học/Variebles/biểu đồ Pareto]] hoặc kỹ thuật "5 Tại sao" (5 Whys).
 - **Đánh giá mức độ ảnh hưởng:** Phân tích tác động của các sai lệch đối với hiệu suất chung của tổ chức và khả năng đáp ứng yêu cầu của khách hàng.
 #### Thực hiện các hành động điều chỉnh và duy trì
 Đây là bước cuối cùng nhằm loại bỏ các bất hợp lý và đưa tổ chức trở lại đúng quỹ đạo. Các nội dung cụ thể bao gồm:
@@ -66,7 +66,7 @@ Trong quản trị và lãnh đạo, **mức độ kiểm tra** (hay kiểm soá
 
 Dưới đây là các mức độ kiểm tra chi tiết được đúc kết từ các học thuyết quản trị:
 
-#### Mức độ kiểm tra dựa trên năng lực ngăn ngừa sai lỗi ([[Poka-Yoke (Phòng chống sai lỗi)]])
+#### Mức độ kiểm tra dựa trên năng lực ngăn ngừa sai lỗi ([[Public-Library/03. Quản trị học/Variebles/Poka-Yoke (Phòng chống sai lỗi)]])
 Trong hệ thống quản trị tinh gọn (Lean), phương pháp Poka-Yoke phân chia việc ngăn ngừa lỗi và hỏng hóc thành **4 mức độ** cụ thể:
 - **Mức độ OK:** Lỗi được phát hiện sau khi nó đã xảy ra.
 - **Mức độ GOOD:** Lỗi được phát hiện ngay trong cùng thời điểm nó đang xảy ra.
@@ -83,7 +83,7 @@ Mức độ kiểm soát cũng phụ thuộc vào bản chất của mô hình v
 - **Cấu trúc cơ học (Mechanistic):** Trọng tâm là **kiểm soát gò bó qua hệ thống quy tắc**, chính sách và thủ tục văn bản nghiêm ngặt để đảm bảo tính kỷ luật và trật tự,.
 - **Cấu trúc hữu cơ (Organic):** Thay vì kiểm soát chặt chẽ, nhà quản trị tập trung vào việc **khuyến khích và hướng dẫn**, trao quyền tự chủ cho các nhóm để họ linh hoạt ứng phó với biến động môi trường,.
 - **Mô hình quan liêu (Weber):** Kiểm tra được thực hiện thông qua **hệ thống phân cấp thẩm quyền rõ ràng**, nơi mỗi vị trí cấp dưới luôn chịu sự kiểm soát và giám sát trực tiếp từ một vị trí cao hơn trong chuỗi mệnh lệnh,.
-#### Kiểm tra trong quản trị hiện đại và chất lượng toàn diện ([[TQM (Total Quality Management)]])
+#### Kiểm tra trong quản trị hiện đại và chất lượng toàn diện ([[Public-Library/03. Quản trị học/Variebles/TQM (Total Quality Management)]])
 Trong các hệ thống hiện đại, mức độ kiểm tra chuyển dịch từ việc "soi lỗi" sang kiểm soát hệ thống dựa trên dữ liệu:
 - **Kiểm soát tại nguồn (Jidoka):** Đây là mức độ kiểm tra chủ động, trao quyền cho nhân viên dừng ngay quá trình sản xuất khi phát hiện sự bất thường để ngăn chặn sản phẩm lỗi đi tiếp,.
 - **Quyết định dựa trên dữ liệu:** Sử dụng các công cụ thống kê (SPC), biểu đồ kiểm soát và dữ liệu thời gian thực để đo lường năng lực quá trình và dự báo sai lệch trước khi chúng trở thành phế phẩm,.

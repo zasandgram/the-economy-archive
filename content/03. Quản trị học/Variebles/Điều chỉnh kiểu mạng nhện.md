@@ -1,9 +1,7 @@
 # Khái niệm
 Mô tả cách <font color="#ff0000">giá</font> và <font color="#ff0000">sản lượng</font> của một hàng hoá dao động theo thời gian, khi có độ trễ giữa thời điểm <font color="#ff0000">người sản xuất quyết định sản lượng</font> và <font color="#ff0000">thời điểm sản phẩm được đưa ra thị trường</font>
-```widgets
-type: quote
-quote: Quyết định năm nay, hưởng chịu năm sau
-```
+>Quyết định năm nay, hưởng chịu năm sau
+
 - Bản chất: Mô tả sự dao động giá và sản lượng qua các chu kỳ thời gian
 - Chủ thể quyết định: Nhà sản xuất
 - Giả định quan trọng nhất
