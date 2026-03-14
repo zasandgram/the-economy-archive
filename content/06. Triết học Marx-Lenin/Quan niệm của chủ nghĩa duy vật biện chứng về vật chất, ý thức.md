@@ -7,14 +7,14 @@
 #### Quan niệm của Engels
 - Để có một quan niệm đúng đắn về vật chất, cần phải có sự phân biệt rõ ràng giữa *vật chất với tính cách là một phạm trù triết học*, một sáng tạo, một công trình trí óc của một tư duy con người trong quá trình phản ánh hiện thực chứ không phải là sản phẩm chủ quan của tư duy
 >*”Vật chất, với tư cách là vật chất, là một sáng tạo thuần tuý của tư duy và là một sự trừu tượng”*
--Frieddrich Engels
+-[@engels_bienchung]
 - Các sự vật, hiện tượng của thế giới, dù rất phong phú, muôn vẻ nhưng chúng vẫn có một đặc tính chung, thống nhất đó là tính vật chất - tính tồn tại, độc lập không lệ thuộc vào ý thức
 #### Quan niệm định nghĩa vật chất của Lenin
 >*”Vật chất không phải chỉ bảo gồm những gì được tạo nên từ nguyên tử, mà là tất thảy những gì tồn tại khách quan, độc lập, không phụ thuộc vào ý thức”*
--Vladimir Iviych Lenin
+-[@lenin_duyvat]
 
 >*”Vật chất là một phạm trù triết học, dùng đề chỉ thực tại khách quan, được đem lại cho con người trong cảm giác, được cảm giác chép lại, chụp lại, phản ánh và tồn tại không lệ thuộc vào cảm giác “*
- -Vladimir Iviych Lenin - Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán
+ -[@lenin_duyvat]
 1. Vật chất là thực tại khách quan - cái tồn tại hiện thực bên ngoài ý thức và không lệ thuộc vào ý thức
 2. Vật chất là cái mà khi tác động vào các giác quan con người thì đem lại cho con người cảm giác
 3. Vật chất là cái mà ý thức chẳng qua chỉ là sự phản ánh của nó
@@ -29,7 +29,7 @@
 >Vận động là mọi sự biến đổi nói chung
 
 >*”Vận động, hiểu theo nghĩa chung nhất, -tức được hiểu là một phương thức tồn tại của vật chất, là một thuộc tính cố hữu của vật chất, thì bao gồm tất cả mọi sự thay đổi và mọi quá trình diễn ra trong vũ trụ, kể cả sự thay đổi vị trí đơn giản cho đến tư duy”*
--Frieddrich Engels
+-[@engels_bienchung]
 
 >Là thuộc tính cố hữu, là phương thức tồn tại của vật chất
 >*”Vận động là phương thức tồn tại của vật chất”*

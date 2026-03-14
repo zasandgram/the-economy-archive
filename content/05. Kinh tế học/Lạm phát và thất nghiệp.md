@@ -85,9 +85,9 @@ Tại Việt Nam, ngoài các nguyên nhân trên, bối cảnh kinh tế hiện
 - **Hiện tượng mang tính hệ thống:** Lạm phát là hiện tượng xảy ra trên bình diện tổng thể, ảnh hưởng đồng thời đến nhiều hộ gia đình và doanh nghiệp trong toàn bộ nền kinh tế,. 
 ### Cách đo lường lạm phát
 Để xác định mức độ nghiêm trọng của lạm phát, các nhà kinh tế sử dụng **tỷ lệ lạm phát** – được tính bằng phần trăm thay đổi của các chỉ số giá từ kỳ này sang kỳ khác,. Có ba chỉ số chính thường được dùng để đo lường:
-- **[[Chỉ số giá tiêu dùng (CPI)]]:** Phản ánh sự thay đổi chi phí của một "giỏ hàng hóa" và dịch vụ tiêu biểu mà một người tiêu dùng điển hình thường mua,. Đây là thước đo lạm phát phổ biến nhất mà người dân thường nghe thấy trên các bản tin hàng ngày,.
-- **[[Chỉ số giảm phát GDP (GDP Deflator)]]:** Phản ánh mức giá trung bình của tất cả các hàng hóa và dịch vụ được sản xuất trong nước,. Chỉ số này được dùng để tách ảnh hưởng của lạm phát ra khỏi GDP danh nghĩa để tính toán GDP thực tế,.
-- **[[Chỉ số giá sản xuất (PPI)]]:** Đo lường sự thay đổi giá cả từ góc độ của các nhà sản xuất, thường được dùng để dự báo sự thay đổi của CPI trong tương lai,.
+- **[[Public-Library/05. Kinh tế học/Variables/Chỉ số giá tiêu dùng (CPI)]]:** Phản ánh sự thay đổi chi phí của một "giỏ hàng hóa" và dịch vụ tiêu biểu mà một người tiêu dùng điển hình thường mua,. Đây là thước đo lạm phát phổ biến nhất mà người dân thường nghe thấy trên các bản tin hàng ngày,.
+- **[[Public-Library/05. Kinh tế học/Variables/Chỉ số giảm phát GDP (GDP Deflator)]]:** Phản ánh mức giá trung bình của tất cả các hàng hóa và dịch vụ được sản xuất trong nước,. Chỉ số này được dùng để tách ảnh hưởng của lạm phát ra khỏi GDP danh nghĩa để tính toán GDP thực tế,.
+- **[[Public-Library/05. Kinh tế học/Variables/Chỉ số giá sản xuất (PPI)]]:** Đo lường sự thay đổi giá cả từ góc độ của các nhà sản xuất, thường được dùng để dự báo sự thay đổi của CPI trong tương lai,.
 Công thức tỉnh tỷ lệ lạm phát cho thời kỳ (t) được tính theo công thức
 $$
 i_{p}= \frac {P_{t}-P_{t-1}}{P_{t-1}} \times 100%

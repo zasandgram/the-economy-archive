@@ -1,12 +1,5 @@
-```text
-  > $1text
-  > $1widgets
-type: quote
-quote: Economics is the queen of social science
-author: Paul Samuelson
-```text
-  > $1text
-  > $1
+>*”Economics is the queen of social science”*
+-[@samuelson2009]
 # <font color="#953734">Nền kinh tế</font>
 ## Các chủ thể của nền kinh tế
 ### Các chủ thể chính
@@ -68,15 +61,7 @@ Nhóm này một mặt là <font color="#e36c09">chủ sở hữu</font> yếu t
 1. Tín hiệu giá cả
 2. Nền kinh tế thị trường
 3. Nhu cầu người tiêu dùng
-```text
-  > $1text
-  > $1widgets
-type: quote
-quote: Đừng bán những gì bạn đang có, hãy bán những gì khách hàng cần.
-```text
-  > $1text
-  > $1
-
+>Đừng bán những gì bạn đang có, hãy bán những gì khách hàng cần.
 #### Sản xuất như thế nào?
 >Tìm ra phương pháp, công nghệ tích hợp
 #### Sản xuất cho ai?
@@ -144,14 +129,9 @@ Lý thuyết lựa chọn kinh tế cũng giải thích cách thức các cá nh
 ### Chi phí cơ hội
 #### Khái niệm
 >là giá trị của cơ hội tốt nhất hoặc phương án kinh doanh tốt nhất bị bỏ qua khi đưa ra một sự lựa chọn kinh tế.
-```text
-  > $1text
-  > $1widgets
-type: quote
-quote: Ăn đám giỗ, lỗ buổi cày
-```text
-  > $1text
-  > $1
+
+>*”Ăn đám giỗ, lỗ buổi cày”*
+
 #### Cách xác định chi phí cơ hội
 $$
 CPCH \small x = \frac{\Delta Y}{\Delta X} = \frac{Y \small b - Y \small a}{X \small a - X \small a}
@@ -179,13 +159,6 @@ Trong đó
 | Bài học thứ nhất:<br>Con người phải đối mặt với sự đánh đổi và đưa ra lựa chọn                              | 1. Con người đối mặt với những sự đánh đổi<br>2. Chi phí của một thứ là cái mà bạn phải từ bỏ để có được nó<br>3. Con người duy lý suy nghĩ theo lợi ích cận biên<br>4. Con người phản ứng với các khuyển khích                   |
 | Bài học thứ hai:<br>Thị trường là cơ chế tổ chức hoạt động kinh tế hiệu quả, nhưng chính phủ vẫn có vai trò | 5. Thương mại có thể làm cho mọi người đều có lợi<br>6. Thị trường thường là một cách tốt để tổ chức hoạt động kinh tế<br>7. Chính phủ có thể cải thiện kết quả của thị trường trong một số trường hợp                            |
 | Bài học thứ ba:<br>Hoạt động của nền kinh tế phụ thuộc vào khả năng sản xuất và các yếu tố vĩ mô            | 8. Mức sống của một quốc gia phụ thuộc vào khả năng sản xuất hàng hoá và dịch vụ của nó<br>9. Giá cả tăng lên khi chính phủ in quá nhiều tiền<br>10. Chính phủ phải đối mặt với sự đánh đổi ngắn hạn giữa lạm phát và thất nghiệp |
-```text
-  > $1text
-  > $1widgets
-type: quote
-quote: No free lunch
-```text
-  > $1text
-  > $1
 
+>*”No free lunch”*
 ![[download.jpg]]

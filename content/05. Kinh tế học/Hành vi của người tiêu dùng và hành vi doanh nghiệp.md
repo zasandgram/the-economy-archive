@@ -6,7 +6,7 @@
 3. Thu nhập tiêu dùng
 4. Giá cả hàng hoá
 ### Một số khái niệm liên quan
-- [[Lợi ích (Utils)]]
+- [[Public-Library/05. Kinh tế học/Variables/Lợi ích (Utils)]]
 ## Quy tắc lựa chọn tiêu dùng tối ưu
 ### Tiêu dùng không phải trả tiền
 Tổng lợi ích tối đa $TU \max$ theo quy tắc $MU=0$
@@ -150,10 +150,10 @@ K* L* để chi phí nhỏ nhất ($TC \min$) khi $\frac {MP_{K}} {P_{K}} = \fra
 - Chi phí ngắn hạn
 - Chi phí dài hạn
 #### Các loại chi phí ngắn hạn
-- [[Chi phí cố định (Fixed Costs)]]
-- [[Chi phí biến đổi (Variable Costs)]]
-- [[Tổng chi phí (Total Costs)]]
-- [[Chi phí cận biên]]
+- [[Public-Library/05. Kinh tế học/Variables/Chi phí cố định (Fixed Costs)]]
+- [[Public-Library/05. Kinh tế học/Variables/Chi phí biến đổi (Variable Costs)]]
+- [[Public-Library/05. Kinh tế học/Variables/Tổng chi phí (Total Costs)]]
+- [[Public-Library/05. Kinh tế học/Variables/Chi phí cận biên]]
 # Lý thuyết lợi nhuận
 ## Khái niệm
 >Lợi nhuận là phân chênh lệch giữa tổng doanh thu của doanh nghiệp khi bán hàng hoá dịch vụ và tổng chi phí đã bỏ ra để sản xuất hàng hoá dịch vụ đó trong một khoảng thời gian nhất định

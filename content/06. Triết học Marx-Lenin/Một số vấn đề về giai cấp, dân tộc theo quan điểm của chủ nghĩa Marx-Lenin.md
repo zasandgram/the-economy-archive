@@ -11,7 +11,7 @@ banner_y: 0.56
 ## Giai cấp
 ### Định nghĩa về giai cấp
 >*”Người ta gọi là giai cấp, những tập đoàn người to lớn, khác nhau về địa vị của họ trong một hệ thống sản xuất xã hội nhất định trong lịch sử, về quan hệ của họ (thường thường thì những quan hệ này được pháp luật quy định và thừa nhận) đối với những tư liệu sản xuất, về vai trò của họ trong tổ chức lao động xã hội, và như vậy là khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hay nhiều mà họ được hưởng”*
--Vladimir Ilyich Lenin - Sáng kiến vĩ đại
+>- [@lenin_sangkien]
 
 Thực chất, giai cấp là những tập đoàn người mà tập đoàn này có thể **chiếm đoạt lao động của tập đoàn khác** do có địa vị khác nhau trong một chế độ kinh tế - xã hội nhất định.
 ### Bốn đặc trưng cơ bản của giai cấp

@@ -3,7 +3,7 @@
 - **Công cụ trực quan:** Đây là một sơ đồ giúp **biểu thị trực quan mối quan hệ** giữa một kết quả (hiệu ứng) và các tác nhân đầu vào (nguyên nhân) gây ra kết quả đó.
 - **Phân loại:** Biểu đồ này thuộc nhóm các công cụ kiểm soát chất lượng truyền thống, được áp dụng thành công từ thập niên 60 và chủ yếu dựa trên tư duy logic thay vì thuần túy là số liệu thống kê như các công cụ khác.
 # Vai trò trong Quản trị và Cải tiến quy trình
-Trong các mô hình quản trị như Lean hay [[chu trình DMAIC]], biểu đồ nhân quả đóng vai trò quan trọng ở nhiều giai đoạn:
+Trong các mô hình quản trị như Lean hay [[Quản trị học/Others/chu trình DMAIC]], biểu đồ nhân quả đóng vai trò quan trọng ở nhiều giai đoạn:
 - **Giai đoạn Đo lường:** Được sử dụng để **định lượng mức tác động** của mỗi yếu tố đầu vào dẫn đến sự biến động của các kết quả đầu ra. Nó giúp nhà quản lý hiểu rõ quá trình hiện tại và tạo điều kiện xác định các lãng phí tiềm ẩn.
 - **Giai đoạn Phân tích:** Công cụ này giúp mô tả các loại biến động đầu vào (Key Process Inputs - KPIs) gây ảnh hưởng tới quá trình. Bằng cách liệt kê mọi nguyên nhân có thể, nhà quản trị có thể **thu hẹp phạm vi khảo sát** để tìm ra những nguyên nhân cốt lõi thông qua các buổi thảo luận nhóm (Brainstorming).
 - **Giải quyết vấn đề tận gốc:** Biểu đồ nhân quả là bước đệm để thực hiện các kỹ thuật phân tích sâu hơn như **"5 Tại sao" (5 Whys)** nhằm xác định đúng nguyên nhân gốc rễ trước khi đưa ra giải pháp khắc phục.
