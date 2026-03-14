@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "The Economic Archive" ,
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,14 +29,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F5F7FA", // Nền sáng hơi ngả xanh xám
-          lightgray: "#E0E3E8",
-          gray: "#8F95A3",
-          darkgray: "#4A505E", // Chữ nội dung
-          dark: "#1D212B", // Chữ tiêu đề (đen sâu)
-          secondary: "#0576C7", // Xanh dương đậm
-          tertiary: "#8250DF", // Tím (để cho có vibe Grotto)
-          highlight: "rgba(5, 118, 199, 0.15)",
+          light: "#faf8f8", // Màu nền trắng ngà (đỡ chói)
+          lightgray: "#e5e5e5", // Màu viền
+          gray: "#b8b8b8", // Màu chữ phụ
+          darkgray: "#4e4e4e", // Màu chữ chính (đọc siêu rõ)
+          dark: "#2b2b2b", // Màu tiêu đề
+          secondary: "#284b63", // Màu link (Xanh biển đậm sang trọng)
+          tertiary: "#84a59d", // Màu hover
+          highlight: "rgba(143, 159, 169, 0.15)", // Màu highlight nền
           textHighlight: "#fff23688",
         },
         darkMode: {
