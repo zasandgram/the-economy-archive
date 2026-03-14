@@ -20,21 +20,21 @@ Quá trình tìm kiếm các giải pháp nhằm thúc đẩy bán ra, lôi kéo
 # Khái niệm cơ bản trong Marketing
 ## Nhu cầu tự nhiên
 >*”Nhu cầu là cảm giác thiếu hụt một thứ gì đó mà con người có thể cảm nhận được.”*
--[@kotler2007]
+— Theo [@kotler2007]
 - Phát sinh do: nhu cầu sinh lý, cá nhân, môi trường sống,...
 - Doanh nghiệp không tạo ra nhu cầu, chỉ khơi gợi và góp phần thỏa mãn nhu cầu
 - Giúp doanh nghiệp xác định được ngành hàng, loại mặt hàng, loại sản phẩm
 - Trả lời câu hỏi thỏa mãn nhu cầu gì của khách hàng
 ## Mong muốn
 >*”Mong muốn là hình thái cụ thể của nhu cầu cơ bản khi nó được định hình qua lăng kinh văn hóa, môi trường sống và cá tính của mỗi cá nhân.”*
--[@kotler2007]
+— Theo [@kotler2007]
 
 Điều này giúp doanh nghiệp
 - Xác định thuộc tính, đặc điểm của sản phẩm/ dịch vụ
 - Tăng khả năng thích ứng và cạnh tranh trên thị trường
 ## Nhu cầu có khả năng thanh toán
 >*” Nhu cầu có khả năng thanh toán là mong muốn được đảm bảo bằng khả năng thanh toán.”*
--[@kotler2007]
+— Theo [@kotler2007]
 
 >*”Cầu thị trường là cầu có khả năng thanh toán”*
 
