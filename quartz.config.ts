@@ -36,7 +36,7 @@ const config: QuartzConfig = {
           dark: "#2b2b2b", // Màu tiêu đề
           secondary: "#284b63", // Màu link (Xanh biển đậm sang trọng)
           tertiary: "#84a59d", // Màu hover
-          highlight: "rgba(143, 159, 169, 0.15)", // Màu highlight nền
+          highlight: "rgb(255, 255, 255)", // Màu highlight nền
           textHighlight: "#fff23688",
         },
         darkMode: {
