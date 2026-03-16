@@ -85,4 +85,6 @@ $$
 ### Số tương đối cường độ
 là số tương đối biểu hiện mối quan hệ so sánh giữa 2 mức độ của hai hiện tượng khác loại nhưng có mối liên hệ với nhau nhằm biểu hiện trình độ phổ biến của hiện tượng nghiên cứu.
 Đơn vị tính của số tương đối cường độ là đơn vị kép.
-—
+
+---
+**Tham khảo**: "Bài giảng môn Nguyên Lý Thống Kê Kinh Tế - Giảng viên Trần Hoàng Thành Vinh  - Đại học Hùng Vương"

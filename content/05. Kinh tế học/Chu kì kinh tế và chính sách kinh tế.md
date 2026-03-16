@@ -111,7 +111,7 @@ $$
 #### Khó xác định chính xác "liều lượng"
 - Nếu "Liều lượng" quá nhẹ: G tăng ít, không đủ để đẩy AD về mức tiềm năng -> Nền kinh tế vẫn suy thoái
 - Nếu "Liều lượng" quá mạnh: Gây ra tình trạng quá tải
-#### [[Độ trễ chính sách]]
+#### [[Public-Library/05. Kinh tế học/Variables/Độ trễ chính sách]]
 có 3 loại đột trễ
 1. Độ trễ nhận thức
 2. Độ trễ quyết định
@@ -160,3 +160,6 @@ Tỷ giá (E) là giá cả của đồng nội tệ so với ngoại tệ.
 - Phá giá đồng tiền ($E \uparrow$): làm hàng suất khẩu rẻ hơn
 -> Khuyến khích xuất khẩu, cái thiện NX
 - Nâng giá đồng tiền ($E \downarrow$): Giá nhập khẩu rẻ hơn nhưng xuất khẩu khó cạnh tranh hơn
+
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

@@ -78,3 +78,5 @@ Sự phát triển không đi theo đường thẳng, mà đi theo đường xo�
 - Tính quanh co, phức tạp
 - Tính lặp lại
 - Tính tiến lên
+---
+ **Tham khảo**: "Bài giảng môn Triết học Marx-Lenin - Giảng viên Lê Thị Thùy  - Đại học Hùng Vương"

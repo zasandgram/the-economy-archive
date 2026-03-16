@@ -119,4 +119,5 @@ là mang lại sự hài lòng tối đa cho khách hàng thông qua việc đ�
 ### Tổng quan
 là một cơ sở dữ liệu phân cấp lưu trữ thông tin trong các khối thông tin được liên kết với nhau bằng mã hoá và mở rộng theo thời gian.
 
-
+---
+ **Tham khảo**: "Bài giảng môn Thương Mại Điện tử - Giảng viên Đỗ Hải Nam  - Đại học Hùng Vương"

@@ -103,3 +103,6 @@ Tinh thần khách quan có trước và tồn tại độc lập với con ngư
 | Xuất phát từ chính thế giới vật chất đề giải thích thế giới                              | Những nguyên tố khởi nguyên mà các nhà tư tưởng nêu ra đều mới chỉ là các giả định, còn mang tính chất trực quan cảm tính, chưa được chứng minh về mặt khoa học |
 | Là cơ sở đề các nhà khoa học duy vật về sau phát triển quan điểm về thế giới vật chất    |                                                                                                                                                                 |
 | >Vật chất được coi là cơ sở đầu tiên của mọi sự vật hiện tượng trong thế giới khách quan |                                                                                                                                                                 |
+
+---
+ **Tham khảo**: "Bài giảng môn Triết học Marx-Lenin - Giảng viên Lê Thị Thùy  - Đại học Hùng Vương"

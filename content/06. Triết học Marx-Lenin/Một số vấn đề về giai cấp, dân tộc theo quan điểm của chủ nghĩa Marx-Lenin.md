@@ -112,7 +112,6 @@ Một cộng đồng người được coi là dân tộc khi hội tụ đầy 
 Quá trình hình thành dân tộc diễn ra khác nhau ở các khu vực trên thế giới:
 - **Ở châu Âu:** Dân tộc thường hình thành gắn liền với sự ra đời của chủ nghĩa tư bản và cuộc cách mạng do giai cấp tư sản lãnh đạo.
 - **Ở châu Á (như Việt Nam):** Dân tộc có thể hình thành rất sớm từ hàng nghìn năm trước, không gắn với sự ra đời của chủ nghĩa tư bản mà dựa trên nhu cầu **dựng nước, giữ nước**, đấu tranh chống ngoại xâm và cải tạo thiên nhiên (làm thủy lợi).
-
 => Dân tộc là hình thức cộng đồng người bền vững nhất, sẽ tiếp tục tồn tại lâu dài trong tương lai, ngay cả khi các giai cấp đã bị xóa bỏ hoàn toàn trong lịch sử.
 ## Sự hình thành dân tộc Việt Nam
 ### Quá trình hình thành dân tộc của các dân tộc trên thế giới
@@ -170,5 +169,7 @@ Cuộc đấu tranh này không còn thuần túy là bạo lực vũ trang như
 - **Nội dung chủ yếu:** Thực hiện thắng lợi sự nghiệp **công nghiệp hóa, hiện đại hóa** theo định hướng xã hội chủ nghĩa; khắc phục tình trạng nghèo nàn, kém phát triển; thực hiện công bằng xã hội và chống áp bức.
 - **Đối tượng đấu tranh:** Các thế lực thù địch thực hiện âm mưu **"diễn biến hòa bình"**, các khuynh hướng tự phát tư bản chủ nghĩa và những hành vi tham nhũng, tiêu cực, suy thoái về đạo đức, lối sống trong nội bộ.
 - **Động lực chính:** Sức mạnh của cuộc đấu tranh này dựa trên **đại đoàn kết toàn dân** với nòng cốt là liên minh công nhân - nông dân - trí thức dưới sự lãnh đạo của Đảng.
-
 Tóm lại, đấu tranh giai cấp trong thời kỳ quá độ là một cuộc đấu tranh **gay go, phức tạp và lâu dài**, là bước quá độ tất yếu để tiến tới thủ tiêu hoàn toàn giai cấp và xây dựng một xã hội không còn áp bức, bóc lột.
+
+---
+ **Tham khảo**: "Bài giảng môn Triết học Marx-Lenin - Giảng viên Lê Thị Thùy  - Đại học Hùng Vương"

@@ -143,3 +143,5 @@ là các bước hoặc giai đoạn mà một dự án phải trải qua bắt 
 3. Giai đoạn vận hành
 4. Giai đoạn kết thúc
 Mỗi giai đoạn có vai trò quan trọng trong việc đảm bảo dự án đạt được mục tiêu đề ra, từ việc lập kế hoạch, huy động nguồn lực, triển khai thi công đến đánh giá hiệu quả. Chu kỳ này giúp nhà quản lý tổ chức các hoạt động một cách khoa hhọc, giảm thiểu rủi ro và tối ưu hóa hiệu quả sử dụng nguồn lực.
+---
+**Tham khảo**: "Bài giảng môn Lập và Phân Tích Dự Án - Giảng viên Ngô Quốc Hùng  - Đại học Hùng Vương"Hùng

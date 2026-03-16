@@ -50,6 +50,5 @@
  - Antivirus 
  - An ninh nguồn nhân lực
  - Trang thiết bị an ninh mạng
- 
-
-
+ ---
+ **Tham khảo**: "Bài giảng môn Thương Mại Điện tử - Giảng viên Đỗ Hải Nam  - Đại học Hùng Vương"

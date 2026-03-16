@@ -186,3 +186,6 @@ Biện pháp chiến lược hướng tới việc giải quyết các nguyên n
 Trong bối cảnh hướng tới năm 2026, Việt Nam áp dụng sự phối hợp linh hoạt giữa các biện pháp này:
 - **Về ngắn hạn:** Kiểm soát lạm phát qua điều hành lãi suất linh hoạt và quản lý giá các mặt hàng nhà nước quản lý (như điện, y tế) để tránh các cú sốc giá,.
 - **Về dài hạn:** Tập trung vào "tam giác chiến lược" gồm ổn định vĩ mô, cải cách thể chế và khơi thông nguồn lực đầu tư để tăng trưởng bền vững,. Chính phủ cũng thực hiện tinh gọn bộ máy để giảm chi thường xuyên và tăng hiệu quả ngân sách.
+
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

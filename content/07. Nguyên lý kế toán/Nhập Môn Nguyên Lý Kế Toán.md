@@ -138,3 +138,6 @@ X=750.000 (1.000 đồng)
 | Tổng tiền |                         | 520.000 |     |                     | 1.780.000 |     |                                 | 520.000 |     |                          | 1.780.000 |
 Tổng tài sản:
 520.000+1780.000
+
+---
+ **Tham khảo**: "Bài giảng môn Nguyên Lý Kế Toán - Giảng viên Nguyễn Thu Hiền  - Đại học Hùng Vương"

@@ -172,3 +172,6 @@ hoặc $TP_{r}= P \times Q - ATC \times Q$
 ## Doanh thu cận biên (MR - Marginal Revenue)
 là phần doanh thu tăng thêm khi sản xuất thêm hoặc bán thêm một đơn vị sản phẩm
 $MR= \frac {\Delta TR}{\Delta Q}$
+
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

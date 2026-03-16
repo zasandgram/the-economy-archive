@@ -1,6 +1,3 @@
-```widgets
-type: clock
-```
 # Một số vấn đề chung về doanh nghiệp
 ## Doanh nghiệp
 ### Quan niệm
@@ -70,11 +67,8 @@ type: clock
 	- Doanh nghiệp quy mô nhỏ
 # Cạnh tranh và năng lực cạnh tranh
 ## Khái niệm
-```widgets
-type: quote
-quote: Cạnh tranh (kinh tế) là giành lấy thị phần. Bản chất của cạnh tranh là tạo ra năng suất và giá trị sản lượng do một đơn vị lao động hoặc vốn sinh ra, nó phụ thuộc và chất lượng và đặc điểm của sản phẩm.
-author: M.Porter
-```
+>"*”Cạnh tranh (kinh tế) là giành lấy thị phần. Bản chất của cạnh tranh là tạo ra năng suất và giá trị sản lượng do một đơn vị lao động hoặc vốn sinh ra, nó phụ thuộc và chất lượng và đặc điểm của sản phẩm.”*
+-M.Porter
 ## Phân loại
 - Theo tiêu chí cạnh tranh
 	- Giữa người sản xuất với nhau
@@ -108,3 +102,5 @@ author: M.Porter
 5. Trình độ công nghệ
 6. Trình độ quản lý
 7. Thương hiệu, uy tín, hình ảnh của doanh nghiệp so với đối thủ cạnh tranh
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế phát triển bền vững - Giảng viên Lệ Thảo My  - Đại học Hùng Vương"

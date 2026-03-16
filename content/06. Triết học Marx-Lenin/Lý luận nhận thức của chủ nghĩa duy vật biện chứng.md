@@ -63,3 +63,6 @@ Cung cấp cơ sở lý luận và các phương pháp nhận thức cho nhận 
 Tránh tuyệt đối hoá nhận thức cảm tính vì sẽ rơi vào chủ nghĩa duy cảm; hoặc phủ nhận vai trò của nhận thức cảm tính sẽ rơi vào chủ nghĩa duy lý cực đoan
 # Sự thống nhất giữa trực quan sinh động, tư duy trừu tượng và thực tiễn
 Mỗi nấc thang mà con người đạt được trong quá trình nhận thức đều là kết quả của cả nhận thức cảm tính và nhận thức lý tính phải được thực hiện trên cơ sở hoạt động thực tiễn
+
+---
+ **Tham khảo**: "Bài giảng môn Triết học Marx-Lenin - Giảng viên Lê Thị Thùy  - Đại học Hùng Vương"

@@ -35,10 +35,7 @@ $$
 ##### Vấn đề
 1. Xác định khối lượng giá trị tài sản công
 2. Tái cấu trúc doanh nghiệp nhà nước
-```widgets
-type: quote
-quote: Đặt "tái cấu trúc doanh nghiệp nhà nước mà trọng tâm là các tập đoàn kinh tế và công ty nhà nước" trong tái cấu trúc tổng thể nền kinh tế, đổi mới doanh nghiệp nhà nước trong đổi mới toàn bộ thể chế kinh tế và vấn đề cần được tiếp cận một cách tổng thể, toàn diện và dài hạn.
-```
+>*”Đặt "tái cấu trúc doanh nghiệp nhà nước mà trọng tâm là các tập đoàn kinh tế và công ty nhà nước" trong tái cấu trúc tổng thể nền kinh tế, đổi mới doanh nghiệp nhà nước trong đổi mới toàn bộ thể chế kinh tế và vấn đề cần được tiếp cận một cách tổng thể, toàn diện và dài hạn.”*
 ##### Phân loại
 - Tài sản công thương mại
 - Tài sản công chính sách
@@ -46,4 +43,5 @@ quote: Đặt "tái cấu trúc doanh nghiệp nhà nước mà trọng tâm là
 - Huy động nguồn lực từ người dân
 - Huy động qua thị trường chứng khoán
 - Phát hành trái phiếu chính phủ hoặc trái phiếu địa phương
-### Huy động nguồn vốn nước ngoài
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế phát triển bền vững - Giảng viên Lệ Thảo My  - Đại học Hùng Vương"

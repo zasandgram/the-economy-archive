@@ -52,3 +52,5 @@ Bài 1
 - Phiếu Nhập kho
 - Phiếu xin lĩnh vật tư
 - Hóa đơn GTGT
+---
+ **Tham khảo**: "Bài giảng môn Nguyên Lý Kế Toán - Giảng viên Nguyễn Thu Hiền  - Đại học Hùng Vương"

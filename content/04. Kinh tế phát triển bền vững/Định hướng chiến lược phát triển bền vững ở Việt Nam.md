@@ -34,3 +34,5 @@ là động lực để Việt Nam tiếp cận vốn, công nghệ, thị trư�
 Thiếu vốn và công nghệ xanh đòi hỏi <font color="#ff0000">200 tỷ USD</font> đến năm 2050 cho chuyển đổi
 5. Quản lý tài nguyên
 6. Dân số và đô thị hóa khổng lồ
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế phát triển bền vững - Giảng viên Lệ Thảo My  - Đại học Hùng Vương"

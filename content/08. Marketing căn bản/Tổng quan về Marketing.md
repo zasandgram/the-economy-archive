@@ -112,5 +112,7 @@ Bao gồm nguồn lực tự nhiên tạo thành các yếu tố đầu vào c�
 | Cơ hội                                                                                                                                                              | Thách thức |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | - Tăng năng suất lao động<br>- Cung cấp công cụ để tạo ra sản phẩm cải tiến hơn<br>- Tạo điều kiện trong phân phối và quản lý hàng hóa<br>- Tăng lợi thế cạnh tranh |            |
-### Môi trường chính trị - pháp luật
-### Môi trường văn hóa - xã hội
+
+
+---
+ **Tham khảo**: "Bài giảng môn Marketing Căn bản - Giảng viên Vũ Quỳnh Phương  - Đại học Hùng Vương"

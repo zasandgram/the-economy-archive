@@ -90,11 +90,9 @@ Khi nhà cung ứng có ảnh hưởng
 ### Đối thụ cạnh tranh hiện tại
 Hiểu biết về đối thủ cạnh tranh rất có ý nghĩa đối với các công ty
 >Phân tích từng đối thủ cạnh tranh
-```widgets
-type: quote
-quote: Biết người biết ta, trăm trận trăm thắng
-author: Sun Tzu
-```
+
+>*”Biết người biết ta, trăm trận trăm thắng”*
+-Sun Tzu
 #### Nhân tố tạo thành
 1. Cơ cấu cạnh tranh
 2. Điều kiện về cầu hoặc tốc độ phát triển của ngành
@@ -137,3 +135,5 @@ Các hoạt động hỗ trợ
 - Vấn đề tạo động lực cho người lao động
 - Chính sách đào tạo phát triển nguồn lực nội bộ
 - Môi trường làm việc, văn hoá doanh nghiệp
+---
+ **Tham khảo**: "Bài giảng môn Quản Trị Học - Giảng viên Phạm Thị Thu Hương  - Đại học Hùng Vương"

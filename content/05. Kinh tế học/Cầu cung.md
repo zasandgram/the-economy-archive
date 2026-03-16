@@ -190,3 +190,6 @@ Sự điều chỉnh lượng cung cấp quyết định trạng thái cân bằ
 Sự điều chỉnh giá cả quyết định trạng thái cân bằng thị trường
 ## Điều chỉnh kiểu mạng nhện
 [[Kinh tế học/Others/Điều chỉnh kiểu mạng nhện]]
+
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

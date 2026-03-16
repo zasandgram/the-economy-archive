@@ -155,3 +155,5 @@ Có lợi cho cả người tiêu dùng lẫn người sản xuất
 - Gây ra tổn thất vô ích do sản xuất/ tiêu dùng quá mức cần thiết
 => Trợ cấp = Tăng tiền = Cung dịch phải = Giá giảm, Lượng tăng = Tất cả đều vui (trừ ngân sách)
 
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

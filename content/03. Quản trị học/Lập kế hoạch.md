@@ -280,4 +280,5 @@ Sứ mệnh là<font color="#ff0000"> lý do tồn tại</font> của doanh nghi
 	- [[Chiến lược khác biệt hoá sản phẩm]]
 	- [[Chiến lược trong tâm hoá]]
 	- [[Bị kẹt ở giữa 3 chiến lược]]
-# Cách lập kế hoạch chiến lược
+---
+ **Tham khảo**: "Bài giảng môn Quản Trị Học - Giảng viên Phạm Thị Thu Hương  - Đại học Hùng Vương"

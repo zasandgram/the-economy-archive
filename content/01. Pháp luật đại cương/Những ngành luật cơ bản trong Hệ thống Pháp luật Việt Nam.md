@@ -477,3 +477,4 @@ Như vậy, quyền sở hữu trí tuệ bao gồm những quyền sau:
 - Quyền sở hữu công nghiệp: là quyền của tổ chức, cá nhân đối với ==bằng sáng chế, kiểu dáng công nghiệp, thiết kế bố trí mạch tích hợp bán dẫn, nhãn hiệu, tên thương mại, chỉ dẫn địa lý, bí mật kinh doanh== do **mình sáng tạo ra hoặc sở hữu** và quyền chống cạnh tranh không lành mạnh
 - Quyền đối với cây trồng: là quyền của tổ chức, cá nhân đối với ==giống cây trồng mới== do mình chọn tạo hoặc phát hiện và phát triển hoặc được hưởng quyền sở hữu
 ---
+**Tham khảo**: "Bài giảng môn Pháp Luật Đại Cương - Giảng viên Hoàng Thị Thúy Hà  - Đại học Hùng Vương"

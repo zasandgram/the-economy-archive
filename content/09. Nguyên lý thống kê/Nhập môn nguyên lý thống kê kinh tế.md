@@ -166,3 +166,6 @@ $$
 \boxed {m_{i}=\frac {\text{tần số}}{\text {khoảng cách tổ}}= \frac {f_{i}}{h}}
 $$
 *Lưu ý*: Đối với tổ mở (tổ không có đủ 2 giới hạn) -> Quy ước lấy khoảng cách tổ của tổ gần nó nhất làm khoảng cách cho tổ mở.
+
+---
+**Tham khảo**: "Bài giảng môn Nguyên Lý Thống Kê Kinh Tế - Giảng viên Trần Hoàng Thành Vinh  - Đại học Hùng Vương"

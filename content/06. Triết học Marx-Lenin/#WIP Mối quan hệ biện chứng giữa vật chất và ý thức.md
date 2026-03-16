@@ -32,7 +32,6 @@
 - Coi trọng giáo dục lý luận chủ nghĩa Marx- Lenin và tư tưởng Chủ tịch Hồ Chí Minh
 - Giáo dục và nâng cao trình độ tri thức khoa học, củng cố, bồi dưỡng nhiệt tình, ý chí cách mạng cho cán bộ, đảng viên và nhân dân
 - Coi trọng việc giữ gìn, rèn luyện phẩm chất đạo đức cho cán bộ, đảng viên, đảm bảo thống nhất giữa nhiệt tình cách mạng và tri thức khoa học
-## Câu hỏi
 ## Phương pháp luận từ mối quan hệ giữa vật chất và ý thức
 ### Chủ nghĩa duy tâm
 - Cơ sở lý luận của tôn giáo

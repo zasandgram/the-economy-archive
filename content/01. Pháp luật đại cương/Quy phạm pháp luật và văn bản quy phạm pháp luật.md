@@ -122,3 +122,4 @@ c. Chế tài
 
 
 ---
+**Tham khảo**: "Bài giảng môn Pháp Luật Đại Cương - Giảng viên Hoàng Thị Thúy Hà  - Đại học Hùng Vương"

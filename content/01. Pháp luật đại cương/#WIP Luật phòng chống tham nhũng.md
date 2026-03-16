@@ -57,6 +57,7 @@ Theo khoản 1 Điều 2 Luật phòng, chống tham nhũng 2005 và khoản 1 �
 # Nội dung
 ## Tác hại của tham nhũng
 ### Tác hại chính trị
-
 ### Tác hại về kinh tế
 ### Tác hại về xã hội
+---
+**Tham khảo**: "Bài giảng môn Pháp Luật Đại Cương - Giảng viên Hoàng Thị Thúy Hà  - Đại học Hùng Vương"

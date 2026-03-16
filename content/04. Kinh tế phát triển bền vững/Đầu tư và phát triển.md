@@ -1,6 +1,3 @@
-```widgets
-type: clock
-```
 # Những vấn đề chung về đầu tư phát triển
 ## Quan niệm về đầu tư phát triển
 >là bộ phận cơ bản của đầu tư
@@ -206,3 +203,5 @@ Các yếu tố ảnh hưởng đến hiệu quả đầu tư phát triển khô
 3. Kết cấu hạ tầng
 4. Các ngành công nghiệp dịch vụ hỗ trợ
 5. Năng lực đào tạo nhân lực
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế phát triển bền vững - Giảng viên Lệ Thảo My  - Đại học Hùng Vương"

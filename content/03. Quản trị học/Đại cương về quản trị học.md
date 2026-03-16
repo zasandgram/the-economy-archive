@@ -255,3 +255,5 @@ Nhà tâm lý đã xây dựng một lý thuyết về nhu cầu của con ngư�
 | Trách nhiệm tập thể       | Trách nhiệm cá nhân           |
 | Quyền lợi toàn cục        | Quyền lợi riêng có giới hạn   |
 
+---
+ **Tham khảo**: "Bài giảng môn Quản Trị Học - Giảng viên Phạm Thị Thu Hương  - Đại học Hùng Vương"

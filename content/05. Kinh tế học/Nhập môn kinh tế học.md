@@ -162,3 +162,6 @@ Trong đó
 
 >*”No free lunch”*
 ![[download.jpg]]
+
+---
+ **Tham khảo**: "Bài giảng môn Kinh tế học - Giảng viên Ngô Thị Thanh Tú  - Đại học Hùng Vương"

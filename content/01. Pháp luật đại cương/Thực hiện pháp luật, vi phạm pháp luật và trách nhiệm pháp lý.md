@@ -151,3 +151,4 @@ Truy cứu trách nhiệm còn có tác dụng răn đe với các chủ thể k
 	- Trách nhiệm kỷ luật
 		- do thủ trưởng cơ quan, tổ chức của nhà nước áp dụng đối với cán bộ, công chức, viên chức nhà nước khi vi phạm các nguyên tắc kỷ luật của nhà nước.
 ---
+**Tham khảo**: "Bài giảng môn Pháp Luật Đại Cương - Giảng viên Hoàng Thị Thúy Hà  - Đại học Hùng Vương"

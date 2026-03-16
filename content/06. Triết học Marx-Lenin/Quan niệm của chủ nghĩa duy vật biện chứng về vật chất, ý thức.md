@@ -107,3 +107,5 @@ Bộ não con người là sản phẩm lâu dài về vật chất
 - Tự ý thức
 - Tiềm thức
 - Vô thức
+---
+ **Tham khảo**: "Bài giảng môn Triết học Marx-Lenin - Giảng viên Lê Thị Thùy  - Đại học Hùng Vương"

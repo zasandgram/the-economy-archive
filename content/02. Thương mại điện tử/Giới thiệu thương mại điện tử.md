@@ -97,3 +97,4 @@ II. Lợi ích và hạn chế của thương mại điện tử
 
 
 ---
+ **Tham khảo**: "Bài giảng môn Thương Mại Điện tử - Giảng viên Đỗ Hải Nam  - Đại học Hùng Vương"

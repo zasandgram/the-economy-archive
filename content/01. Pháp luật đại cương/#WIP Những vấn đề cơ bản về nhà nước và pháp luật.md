@@ -34,4 +34,6 @@ Lịch sử đã trải qua 3 lần phân công lao động xã hội lớn
 1. Nghề chăn nuôi phát triển, tách ra khỏi trồng trọt
 2. Thủ công nghiệp tách khỏi nông nghiệp
 3. Buôn bán phát triển và thương nghiệp xuất hiện
-##### SỰ phát triển của nhà nước
+##### Sự phát triển của nhà nước
+---
+**Tham khảo**: "Bài giảng môn Pháp Luật Đại Cương - Giảng viên Hoàng Thị Thúy Hà  - Đại học Hùng Vương"
