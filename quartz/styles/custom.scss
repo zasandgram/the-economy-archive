@@ -60,7 +60,7 @@
 /* 1. Thêm ảnh nền mờ cho toàn trang web */
 body {
   background-image: radial-gradient(circle, rgba(22, 25, 32, 0.8) 0%, #161920 100%), 
-                    url('LINK_ẢNH_NỀN_CỦA_ÔNG');
+                    url('/static/bg.jpg');
   background-attachment: fixed;
   background-size: cover;
 }
@@ -70,7 +70,7 @@ body {
   margin-top: 2rem;
   padding: 100px 20px 20px 20px; /* Tạo khoảng trống cho ảnh */
   background-image: linear-gradient(to bottom, transparent, var(--light)), 
-                    url('LINK_ẢNH_BANNER');
+                    url('/static/banner.jpg');
   background-size: cover;
   background-position: center;
   border-radius: 12px;

@@ -6,9 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
+  footer: Component.Footer({ 
     links: {
-      GitHub: "https://github.com/zasandgram/the-economy-archive",
+      "Copyrights": "https://zasandgram.github.io/the-economy-archive/copyright",
+      "GitHub": "https://github.com/zasandgram/the-economy-archive",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
