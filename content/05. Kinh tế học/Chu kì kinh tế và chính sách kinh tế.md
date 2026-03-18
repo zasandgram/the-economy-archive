@@ -106,12 +106,12 @@ $$
 -> $P \downarrow$
 => Suy thoái kép
 ## Các chính sách ổn định nền kinh tế
-### [[Public-Library/05. Kinh tế học/Variables/Chính sách tài khóa]]
+### [[Chính sách tài khóa]]
 ### Chính sách tài khóa trong thực tế
 #### Khó xác định chính xác "liều lượng"
 - Nếu "Liều lượng" quá nhẹ: G tăng ít, không đủ để đẩy AD về mức tiềm năng -> Nền kinh tế vẫn suy thoái
 - Nếu "Liều lượng" quá mạnh: Gây ra tình trạng quá tải
-#### [[Public-Library/05. Kinh tế học/Variables/Độ trễ chính sách]]
+#### [[Độ trễ chính sách]]
 có 3 loại đột trễ
 1. Độ trễ nhận thức
 2. Độ trễ quyết định
@@ -120,7 +120,7 @@ có 3 loại đột trễ
 Hiệu quả chính sách tài khóa phụ thuộc vào chất lượng chỉ tiêu
 - Lãng phí và tham nhũng
 - Ảnh hưởng tới niềm tin
-## [[Public-Library/05. Kinh tế học/Variables/Chính sách tiền tệ mở rộng]]
+## [[Chính sách tiền tệ mở rộng]]
 - Thời điểm: Suy thoái
 - Công cụ chính
 	- Mua trái phiếu chính phủ
