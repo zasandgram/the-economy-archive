@@ -1,10 +1,3 @@
->[!quote] Quote of the Day
-	> The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back.
-> &mdash; <cite>Seneca the Younger</cite>✍️
-> ---
-> #famous quotes
-
-
 Marketing được diễn ra khi hoạt động trao đổi trong những hoàn cảnh hoặc tình huống nhất định
 - Người bán nỗ lực bán hàng
 - Người mua nỗ lực mua hàng
