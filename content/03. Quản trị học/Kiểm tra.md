@@ -1,3 +1,11 @@
+<div class="audio-player">
+  <p>🎧 <i>Nghe bản Audio:</i></p>
+  <audio controls style="width: 100%; filter: sepia(20%) brightness(90%);">
+    <source src="../static/audio/pdca_sleepy.mp3" type="audio/mpeg">
+    Trình duyệt của bạn không hỗ trợ phát âm thanh.
+  </audio>
+</div>
+
 # Khái niệm và bản chất
 ## Khái niệm
 > Kiểm tra là quá trình xem xét các hoạt động dựa trên những tiêu chuẩn, chuẩn mực đặt ra, nhằm ngăn chặn, phát hiện và đo lường những sai lệch để có biện pháp khắc phục, bảo đảm cho các hoạt động thực hiện đúng hướng, đạt được kết quả tốt hơn
