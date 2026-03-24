@@ -4,7 +4,7 @@ import os
 
 # --- CẤU HÌNH ---
 VOICE = "vi-VN-HoaiMyNeural" 
-OUTPUT_FOLDER = "quartz/static/audio"
+OUTPUT_FOLDER = "content/audio"
 RATE = "-20%" 
 VOLUME = "+0%"
 
