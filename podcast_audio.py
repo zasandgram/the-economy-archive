@@ -5,11 +5,12 @@ import os
 # --- CẤU HÌNH ---
 VOICE = "vi-VN-HoaiMyNeural" 
 OUTPUT_FOLDER = "content/audio"
-RATE = "-20%" 
+RATE = "-30%" 
 VOLUME = "+0%"
+PITCH = "-20Hz"
 
 async def generate_podcast(text, output_path):
-    communicate = edge_tts.Communicate(text, VOICE, rate=RATE, volume=VOLUME)
+    communicate = edge_tts.Communicate(text, VOICE, rate=RATE, volume=VOLUME, pitch=PITCH)
     await communicate.save(output_path)
     print(f"\n✅ Đã 'nấu' xong Siêu phẩm Podcast tại: {output_path}")
 
